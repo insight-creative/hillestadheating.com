@@ -1,0 +1,51 @@
+{{ define "main" }}
+    {{ partial "hero" .  }}
+    {{ partial "emergency-cta" .  }}
+    <div class="block">
+        <div class="wrapper flow">
+            <span class="brand-divider brand-divider--dark">
+                <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+            </span>
+            {{ .Content  }}
+        </div>
+    </div>
+    {{ if .Params.cooling_checklist }}
+        {{ with .Params.cooling_checklist }}
+            <section class="block bg-secondary text-color-white" aria-labelledby="{{ .heading | urlize }}">
+                <div class="wrapper-lg grid gap-lg">
+                    <div class="grid-12 grid-5-md flow">
+                        <h2 class="h3 no-margin" id="{{ .heading | urlize }}">{{ .heading }}</h2>
+                        {{ if .body }}
+                            {{ partial "format-body" . }}
+                        {{ end }}
+                    </div>
+                    <div class="grid-12 grid-7-md list-two-columns">
+                        {{ if .checklist }}
+                            {{ .checklist | markdownify }}
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+        {{ end }}
+    {{ end }}
+    {{ if .Params.heating_checklist }}
+        {{ with .Params.heating_checklist }}
+            <section class="block" aria-labelledby="{{ .heading | urlize }}">
+                <div class="wrapper-lg grid gap-lg">
+                    <div class="grid-12 grid-5-md flow">
+                        <h2 class="h3 no-margin" id="{{ .heading | urlize }}">{{ .heading }}</h2>
+                        {{ if .body }}
+                            {{ partial "format-body" . }}
+                        {{ end }}
+                    </div>
+                    <div class="grid-12 grid-7-md list-two-columns">
+                        {{ if .checklist }}
+                            {{ .checklist | markdownify }}
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+        {{ end }}
+    {{ end }}
+    {{ partial "cta" . }}
+{{ end }}

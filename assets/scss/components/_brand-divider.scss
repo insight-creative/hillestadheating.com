@@ -1,0 +1,23 @@
+.brand-divider {
+    position: relative;
+}
+
+.brand-divider img {
+    width: 50px;
+}
+
+.brand-divider::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 75px; 
+    // width: calc(100% - 75px);
+    width: 100%;
+    max-width: 600px;
+    height: 1px;
+    background-color: rgba($white, .25);
+}
+
+.brand-divider--dark::after {
+    background-color: rgba($black, .25);
+}

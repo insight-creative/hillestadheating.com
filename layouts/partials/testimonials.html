@@ -1,0 +1,53 @@
+<section class="testimonials block bg-gray">
+    <div class="wrapper-lg flow">
+        <span class="brand-divider brand-divider--dark">
+            <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+        </span>
+        <h2>What Our Customers Are Saying</h2>
+        <p>Read more from real customers who chose {{ site.Params.author }} for their heating, ventilation and air conditioning needs. From fast response times to complex installations, our customers highlight the expertise, professionalism and friendliness that define our service.</p>
+    </div>
+    <div class="testimonial wrapper-lg padding-top-4">
+        <div class="auto-flexbox-grid gap-sm">
+            {{ range .Params.testimonials }}
+            <blockquote class="testimonial__col">
+                <div class="testimonial__icon">{{ partial "svg-icons/quote.svg" . }}</div>
+                <p class="font-size-sm">{{ .testimonial }}</p>
+
+                <div class="flex flex-center gap-sm mt-3">
+                    <div>
+                        <p class="fw-700 no-margin line-height-1">{{ .author }}</p>
+                        <p class="font-size-xs no-margin">{{ .company }}</p>
+                    </div>
+                    <div class="testimonial__source flex flex-center">
+                        <div class="testimonial__source-icon icon-wrapper">
+                          <div class="icon icon-md icon-fill-white">
+                            {{ partial "svg-icons/google.svg" . }}
+                          </div>
+                        </div>
+                        <div>
+                          <div class="testimonial__stars flex">
+                            <div class="icon icon-xs icon-fill-black">
+                              {{ partial "svg-icons/star.svg" }}
+                            </div>
+                            <div class="icon icon-xs icon-fill-black">
+                              {{ partial "svg-icons/star.svg" }}
+                            </div>
+                            <div class="icon icon-xs icon-fill-black">
+                              {{ partial "svg-icons/star.svg" }}
+                            </div>
+                            <div class="icon icon-xs icon-fill-black">
+                              {{ partial "svg-icons/star.svg" }}
+                            </div>
+                            <div class="icon icon-xs icon-fill-black">
+                              {{ partial "svg-icons/star.svg" }}
+                            </div>
+                          </div>
+                          <p class="testimonial__rating font-size-xs">5.0 star rating</p>
+                        </div>
+                    </div>
+                </div>
+            </blockquote>
+            {{ end }}
+        </div>
+    </div>
+</section>

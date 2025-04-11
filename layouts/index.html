@@ -1,0 +1,35 @@
+{{ define "main" }}
+{{ partial "hero" . }}
+<section class="intro">
+  <div class="intro-overlay block">
+    <div class="wrapper-lg">
+      <div class="flex-m flex-row-m">
+        <div class="w-100 w-50-m flow">
+          <span class="brand-divider brand-divider--dark">
+            <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+          </span>
+          <h2 class="no-margin">{{ .Params.intro.heading }}</h2>
+          <p>{{ .Params.intro.body }}</p>
+          {{ if .Params.intro.button.enabled }}
+            {{ with .Params.intro.button }}
+                <a class="btn btn--primary" href="{{ .button_url }}" {{ if .open_in_new_tab }}target="_blank"{{ end }}>{{ .button_text }}</a>
+            {{ end }}
+          {{ end }}
+          <p class="cta-full-width fw-700">Experiencing HVAC issues? Contact our Fitchburg HVAC technicians now at <a class="" href="tel:{{ .Site.Data.site_settings.phone }}" aria-label="Call {{ .Site.Data.site_settings.business_name }}">{{ .Site.Data.site_settings.phone }}</a> and schedule your appointment today!</p>
+        </div>
+        <div class="w-100 w-50-m">
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ if .Params.cards.cards_row }}
+  {{ partial "cards" . }}
+{{ end }}
+{{ if .Params.cards.cards_stacked }}
+  {{ partial "cards-stacked" . }}
+{{ end }}
+{{ partial "full-width-feature" .  }}
+{{ partial "testimonials" . }}
+{{ partial "cta" . }}
+{{ end }}

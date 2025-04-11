@@ -1,0 +1,55 @@
+{{ if not (eq .Title "Home") }}
+<div>
+  {{ partial "breadcrumbs" . }}
+</div>
+{{ end }}
+<section class="hero--split {{ if eq .Title "Home" }}hero--home{{ end }}" aria-labelledby="hero-heading">
+  <div class="hero--split__content text-color-white flow">
+    <span class="brand-divider">
+      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+    </span>
+    <h1 class="no-margin" id="hero-heading">{{ .Params.hero.heading }}</h1>
+    <div class="hero__body">
+      {{ if .Params.hero.body }}
+          {{ if in .Params.hero.body "\n" }}
+              {{ .Params.hero.body | markdownify }}
+          {{ else }}
+              <p>{{ .Params.hero.body | markdownify }}</p>
+          {{ end }}
+      {{ end }}
+    </div>
+    {{ if .Params.hero.highlights }}
+      <div class="hero__highlights">
+        {{ range .Params.hero.highlights }}
+          <div class="hero__highlight flex flex-center">
+            <div class="icon icon-md icon-fill-white">
+              {{ $icon := .icon }}
+              {{ partial (print "svg-icons/" $icon ".svg") . }}
+            </div>
+            <p class="fw-700">{{ .body }}</p>
+          </div>
+        {{ end }}
+      </div>
+    {{ end }}
+    {{ if .Params.hero.button.enabled }}
+      {{ with .Params.hero.button }}
+          <a class="btn btn--white" href="{{ .button_url }}" {{ if .open_in_new_tab }}target="_blank"{{ end }}>{{ .button_text }}</a>
+      {{ end }}
+    {{ end }}
+    {{ if eq .Title "Home" }}
+    <div class="hero__carrier-logo">
+      <img src="/uploads/bryant-heating-and-cooling-logo-white.svg" alt="Bryant Logo" width="300" height="100">
+    </div>
+    {{ end }}
+  </div>
+  <div class="hero--split__image">
+    {{ with .Params.hero.image }}
+      {{ partial "responsive-image-hero" . }}
+    {{ end }}
+  </div>
+  {{ if eq .Title "Home" }}
+    <div class="hero--split__form">
+      {{ partial "forms/request-service" . }}
+    </div>
+  {{ end }}
+</section>

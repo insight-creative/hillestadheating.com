@@ -1,0 +1,92 @@
+.page-home .hero .contact-form-wrapper {
+  @include breakpoint(md) {
+    position: relative;
+    bottom: -250px;
+    inline-size: 100%;
+  }
+
+  @include breakpoint(lg) {
+    bottom: -300px;
+  }
+}
+
+.contact-form {
+  background-color: $white;
+  color: $black;
+  padding: $ic-600;
+  padding: clamp($ic-200, 6%, $ic-600);
+  // border-top-left-radius: $radius;
+  // border-bottom-left-radius: $radius;
+  box-shadow: 8px 8px 48px rgba(25, 25, 96, 0.25);
+
+  &__form-group textarea {
+    block-size: $ic-1000;
+  }
+}
+
+.contact {
+  .contact-form {
+    block-size: 100%;
+  }
+}
+
+.contact-form__row-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  @include breakpoint(md) {
+    flex-direction: row;
+
+    .contact-form__form-group {
+      flex: 50%;
+    }
+
+    .contact-form__form-group:nth-of-type(2) {
+      padding-left: 1rem;
+    }
+  }
+}
+
+.contact-form__form-group label {
+  font-size: $ic-100;
+  font-weight: 700;
+}
+
+.contact-form__form-group input,
+.contact-form__form-group textarea,
+.contact-form__form-group select {
+  background-color: rgba($light-gray, 1);
+  color: $black;
+  border: none;
+  inline-size: 100%;
+  padding: $ic-100 $ic-200;
+  margin-bottom: $ic-100;
+  block-size: $ic-700;
+  border: 1px solid rgba($black, .25);
+
+  &:focus {
+    outline: 2px solid $black;
+  }
+}
+
+.contact-form__form-group textarea {
+  block-size: $ic-1000;
+}
+
+form.hidden {
+  display: none;
+}
+
+.contact-sidebar iframe {
+  inline-size: 100%;
+  block-size: 350px;
+}
+
+.contact-form__call-link {
+  color: $primary-color;
+
+  &:hover, 
+  &:focus {
+    color: $primary-color-2;
+  }
+}

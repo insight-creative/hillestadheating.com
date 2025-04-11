@@ -1,0 +1,32 @@
+{{ define "main" }}
+    {{ partial "hero" . }}
+    <div class="block">
+        <div class="wrapper flow">
+            <span class="brand-divider brand-divider--dark">
+                <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+            </span>
+            <h2 class="no-margin">{{ .Params.intro.heading }}</h2>
+            <p>{{ .Params.intro.copy }}</p>
+            <div class="hero__carrier-logo">
+                <img src="/uploads/bryant-heating-and-cooling-logo.svg" alt="Bryant Logo" width="300" height="100">
+            </div>
+        </div>
+        <div class="wrapper-md padding-top-4">
+            <ul class="products-list auto-grid gap-sm max-width-none">
+                {{ range .Params.products }}
+                <li class="products-list__item">
+                    <h3 class="h4">{{ .heading }}</h3>
+                    <img src="{{ .image_url }}" alt="Bryant {{ .heading }}" width="640" height="360" loading="lazy">
+                    {{ if .notes }}
+                    <p class="font-size-sm">{{ .notes | markdownify }}</p>
+                    {{ end }}
+                    {{ if .url }}
+                        <a class="products-list__link btn btn--primary" href="{{ .url }}" target="_blank">View {{ .heading }}</a>
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+    {{ partial "cta" . }}
+{{ end }}
