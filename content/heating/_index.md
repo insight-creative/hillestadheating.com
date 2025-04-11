@@ -6,13 +6,13 @@ menu:
 seo:
   page_title: Heating and Cooling Company in Fitchburg, WI
   meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /bryant-dealer-working-on-furnace-in-basement_lejtzf.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Heating and Cooling Company in Fitchburg, WI
   body: Professionally trained technicians servicing all brands, makes and models.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-working-on-furnace-in-basement_lejtzf.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true

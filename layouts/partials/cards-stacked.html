@@ -21,9 +21,7 @@
             {{ with .Params.cards}}
             <div class="cover-image">
                 {{ if .image.enabled }}
-                    {{ with .image }}
-                        {{ partial "responsive-image-square" . }}
-                    {{ end }}
+                    {{ partial "responsive-image-square" . }}
                 {{ end }}
             </div>
             {{ end }}

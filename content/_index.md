@@ -16,7 +16,7 @@ hero:
     - icon: certification
       body: Certified HVAC professionals
   image: 
-    image_url: /uploads/woman-sitting-on-couch-reading-magazine
+    image_url: /woman-sitting-on-couch-reading-magazine-1000_ty8bbx.jpg
     image_alt: Bryant technician showing a couple a newly installed air conditioner
   button:
     enabled: false
@@ -38,7 +38,7 @@ cards:
   cards_stacked: true
   image: 
     enabled: true
-    image_url: /uploads/woman-reviewing-catalog-with-bryant-dealer
+    image_url: /woman-reviewing-catalog-with-bryant-dealer-1200_lffqee.jpg
     image_alt: Bryant technician with homeowner outdoors in front of carrier air conditioner
   card_item:
     - icon: service
@@ -51,7 +51,7 @@ cards:
       heading: Same-Day Service
       body: We provide emergency 24-hour, same-day service, plus free in-home estimates.
 featured:
-  - background: /uploads/bryant-logo-on-air-conditioner.jpg
+  - background: hhttps://res.cloudinary.com/hillestad/image/upload/v1744360179/bryant-logo-on-air-conditioner_z3qrzg.jpg
     image: /uploads/bryant-factory-authorized-dealer-logo-2.png
     image_alt: Bryant Factory Authorized Dealer Logo
     heading: Bryant Authorized Dealer
