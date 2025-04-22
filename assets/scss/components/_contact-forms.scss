@@ -69,6 +69,14 @@
   }
 }
 
+.contact-form__form-group input[type="radio"]{
+  inline-size: $ic-300;
+  block-size: $ic-300;
+  margin-right: $ic-100;
+  margin-bottom: 0;
+  vertical-align: middle;
+}
+
 .contact-form__form-group textarea {
   block-size: $ic-1000;
 }

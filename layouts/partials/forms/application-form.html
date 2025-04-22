@@ -6,7 +6,7 @@
         </label>
     </div>
     <div class="visually-hidden">
-        <label for="_subject">New application from Tarkenton Brothers Heating and Sheet Metal job application form</label>
+        <label for="_subject">New application from Hillestad Heating and Cooling job application form</label>
         <input aria-label="subject" id="_subject" name="_subject"/>
     </div>
     <h2>Applicant Information</h2>
@@ -25,6 +25,14 @@
     <div class="contact-form__form-row">
         <div class="contact-form__row-wrapper">
             <div class="contact-form__form-group">
+                <label for="address">Address *</label>
+                <input name="address" id="address" type="text" class="contact-form__form-control" required>
+            </div>
+        </div>
+    </div>  
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
                 <label for="email">Email *</label>
                 <input name="email" id="email" type="email" class="contact-form__form-control" required>
             </div>
@@ -33,7 +41,45 @@
                 <input name="Phone" id="phone" type="tel" class="contact-form__form-control" required>
             </div>
         </div>
-    </div>  
+    </div> 
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <label for="position">Position Applying For *</label>
+                <input name="position" id="position" type="text" class="contact-form__form-control" required>
+            </div>
+        </div>
+    </div> 
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <label for="experience">Years of Experience *</label>
+                <input name="experience" id="experience" type="text" class="contact-form__form-control" required>
+            </div>
+        </div>
+    </div>
+    <p>Employees who drive company vehicles must have a clean driving record (no DUI for 7 years). Clean Driving Record?</p>
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <input name="drive" id="drive-yes" type="radio" value = "yes" class="contact-form__form-control" required>
+                <label for="drive-yes">Yes</label>
+                <input name="drive" id="drive-no" type="radio" value = "no" class="contact-form__form-control" required>
+                <label for="drive-no">No</label>
+            </div>
+        </div>
+    </div>
+    <p>Currently Employed?</p>
+    <div class="contact-form__form-row">
+        <div class="contact-form__row-wrapper">
+            <div class="contact-form__form-group">
+                <input name="employed" id="employed-yes" type="radio" value = "yes" class="contact-form__form-control" required>
+                <label for="employed-yes">Yes</label>
+                <input name="employed" id="employed-no" type="radio" value = "no" class="contact-form__form-control" required>
+                <label for="drive-no">No</label>
+            </div>
+        </div>
+    </div>
     <div class="contact-form__form-group">
       <label for="resume">Resume/Cover Letter*</label>
       <input aria-label="resume" name="resume" type="file">
@@ -43,5 +89,5 @@
         <textarea name="Message" id="message" class="contact-form__form-control" rows="4" required></textarea>
     </div>
     <br>
-    <button type="submit" class="contact-form__btn btn btn--primary">Send Application {{ partial "svg-icons/arrow-right.svg" . }}</button>
+    <button type="submit" class="contact-form__btn btn btn--primary">Apply Now {{ partial "svg-icons/arrow-right.svg" . }}</button>
 </form>
