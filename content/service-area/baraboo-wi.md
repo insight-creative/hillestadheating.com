@@ -25,7 +25,7 @@ hero:
 
 When your home or business in Baraboo needs heating or cooling service, Hillestad Heating and Cooling is just a call away. We’ve been serving Sauk County and surrounding areas with trusted, high-quality HVAC care since 1988. We’re proud to support the Baraboo community with fast response times and friendly, professional service.
 
-Whether you live near Devil’s Lake, in town or outside the city limits, we’re here to helpyou stay comfortable all year long. 
+Whether you live near Devil’s Lake, in town or outside the city limits, we’re here to help you stay comfortable all year long. 
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
@@ -33,7 +33,7 @@ Whether you live near Devil’s Lake, in town or outside the city limits, we’r
   </span>
   <h2 class="no-margin">Need HVAC Service in Baraboo?</h2>
 
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 231-3888.
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 356-4550.
 
   <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 

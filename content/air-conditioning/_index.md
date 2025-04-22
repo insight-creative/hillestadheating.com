@@ -4,73 +4,89 @@ menu:
   main:
     weight: 2
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title: Air Conditioning Services in Lodi, WI
+  meta_description: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading: Air Conditioning Services in Lodi, WI
+  body: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text:  Schedule Service
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Stay Cool, Comfortable and Worry-Free, All Summer Long
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
+When the Wisconsin heat hits, you need an air conditioning system you can count on. At Hillestad Heating and Cooling, we specialize in keeping homes cool and efficient with expert A/C repair, maintenance and installation services.
 
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
-
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
+Whether you need a quick fix, seasonal tune-up or a full system replacement, our experienced team is ready to deliver fast, honest and high-quality air conditioning service across Lodi, Baraboo, Portage and beyond.
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
       <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
   </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Schedule Your Air Conditioning Service Today!</h2>
 
-  * Madison 
+Don’t sweat it out this summer. Whether your A/C needs a quick repair or a complete refresh, Hillestad Heating and Cooling is just a call away. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
+  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 
 </div>
 
-## Bryant Authorized Dealer
+## Our A/C Services
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+From older units to modern energy-efficient systems, Hillestad handles it all with care and precision. We offer:
 
-## Quick Facts About Tarkenton Brothers: 
+*	**A/C Repair:** Fast, effective fixes for cooling problems of all kinds
 
-* Over 45 years in the HVAC and sheet metal business 
+*	**A/C Maintenance:** Seasonal tune-ups to improve performance and prevent breakdowns
 
-* Free replacement estimates 
+*	**A/C Installation and Replacement:** Expertly installed systems tailored to your home’s needs
 
-* 24-hour emergency service 
+*	**Ductless Mini-Splits:** Efficient cooling options for homes without ductwork or for zoned comfort
 
-* Residential and light commercial 
+No matter what kind of system you have, we’ll help you stay comfortable without wasting energy—or your money.
 
-* Licensed, bonded and fully insured 
+## Why Lodi Homeowners Trust Hillestad
 
-* Sales, service, installation
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+
+Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
+
+*	**Local and Family-Rooted:** Proudly serving Lodi and our surrounding communities since 1988.
+
+*	**Experienced Technicians:** Skilled, certified and constantly trained.
+
+*	**Prompt and Professional:** We show up on time and do it right the first time.
+
+*	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
+
+*	**Clear and Honest Quotes:** No pushy upsell. No surprises.
+
+## Air Conditioning Services Near You
+
+We’re proud to serve communities across south-central Wisconsin, including:
+
+*	Lodi
+
+*	Sauk City
+
+*	Portage
+
+*	Baraboo
+
+*	Wisconsin Dells
+
+*	Madison
+
+*	And surrounding areas!
+
+Waunakee, Stoughton, Prairie du Sac?
+
+Not sure if you’re in our service area? Give us a call, we’re happy to help.

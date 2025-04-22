@@ -4,73 +4,105 @@ menu:
   main:
     parent: "Heating"
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title:  Boiler Services in Lodi, WI
+  meta_description:  Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading:  Boiler Services in Lodi, WI
+  body: Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text:  Schedule Service
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Reliable Boiler Repairs, Maintenance and Replacements
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
-
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
-
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
+Whether your home relies on radiant heat, baseboard heating or an older steam boiler system, Hillestad Heating and Cooling has the expertise to keep it running efficiently. From quick repairs to full system upgrades, our licensed technicians are here to deliver dependable boiler service with the care and quality you expect from a name that’s served southern Wisconsin since 1988.
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
       <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
   </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Schedule Your Boiler Repair Service Today!</h2>
 
-  * Madison 
+Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at (608) 231-3888
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
+  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 
 </div>
 
-## Bryant Authorized Dealer
+## Boiler Services We Offer
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+Boiler systems work differently than forced-air furnaces, and they require a technician who knows the ins and outs of hydronic heating. At Hillestad, we bring decades of hands-on experience with residential boiler systems of all types. We offer:
 
-## Quick Facts About Tarkenton Brothers: 
+* **Boiler Repair:** Fast, accurate diagnostics and repairs to restore consistent heat.
 
-* Over 45 years in the HVAC and sheet metal business 
+*	**Boiler Maintenance:** Seasonal service to prevent leaks, corrosion, and inefficiency.
 
-* Free replacement estimates 
+*	**Boiler Replacement and Installation:** Modern high-efficiency systems are installed with precision.
 
-* 24-hour emergency service 
+*	**System Conversions:** Upgrading from steam or older systems? We’ll help you choose the right solution.
 
-* Residential and light commercial 
+Whether your system runs on natural gas, propane, or oil, we’ve got the tools and training to keep it performing at its best.
 
-* Licensed, bonded and fully insured 
+## Signs Your Boiler Needs Service
 
-* Sales, service, installation
+If you notice any of these issues, it may be time to call in the experts:
+
+*	Irregular or no heat from your radiators
+
+*	Strange noises like banging, gurgling or whistling
+
+*	Rising energy bills with no change in usage
+
+*	Water leaks or signs of rust around the boiler
+
+*	Frequent need to add water or reset the system
+
+*	Uneven heating throughout your home
+
+Don’t ignore the early warning signs, what starts as a small issue could lead to major repairs or safety risks.
+
+## Why Lodi Homeowners Trust Hillestad
+
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+
+Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
+
+*	Local and Family-Rooted: Proudly serving Lodi and our surrounding communities since 1988.
+
+*	Experienced Technicians: Skilled, certified and constantly trained.
+
+*	Prompt and Professional: We show up on time and do it right the first time.
+
+*	Energy-Efficient Solutions: We’ll help you save money and stay warm.
+
+*	Clear and Honest Quotes: No pushy upsell. No surprises.
+
+## Boiler Services Near You
+
+We’re proud to serve communities across south-central Wisconsin, including:
+
+*	Lodi
+
+*	Sauk City
+
+*	Portage
+
+*	Baraboo
+
+*	Wisconsin Dells
+
+*	Madison
+
+*	And surrounding areas!
+
+Waunakee, Stoughton, Prairie du Sac?
+
+Not sure if you’re in our service area? Give us a call, we’re happy to help.

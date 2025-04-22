@@ -4,73 +4,102 @@ menu:
   main:
     parent: "Service Area"
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title: HVAC Services in Portage, WI
+  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading: HVAC Services in Portage, WI
+  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text:  Schedule Service
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Trusted Heating, Cooling and Indoor Air Quality Solutions in Portage, WI
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
+When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County—from downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
 
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
-
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
+From chilly winter furnace repair to high‑efficiency air conditioner installs on those hot summer days, Hillestad Heating and Cooling is your local HVAC partner, dedicated to keeping our community comfortable year‑round.
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
       <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
   </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Need HVAC Service in Portage?</h2>
 
-  * Madison 
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 742-7771.
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
+  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 
 </div>
 
-## Bryant Authorized Dealer
+## HVAC Services We Offer in Portage
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+No matter if you live down by the Wisconsin River in Historic Downtown or up by Silver Lake, we’ve got your comfort covered. Our services include:
 
-## Quick Facts About Tarkenton Brothers: 
+### Heating Services
 
-* Over 45 years in the HVAC and sheet metal business 
+* Furnace Repair, replacement and installation
 
-* Free replacement estimates 
+* Boiler service and maintenance
 
-* 24-hour emergency service 
+* Seasonal tune-ups
 
-* Residential and light commercial 
+* Emergency heating repairs
 
-* Licensed, bonded and fully insured 
+### Cooling Services
 
-* Sales, service, installation
+* A/C repair, maintenance and installation 
+
+* Ductless mini-split systems 
+
+* High-efficiency system upgrades
+
+* Central air troubleshooting 
+
+### Indoor Air Quality
+
+* Whole-home air purification
+
+* Humidifiers and dehumidifiers
+
+* Ventilation solutions
+
+* Filter replacement and upgrades
+
+### Commercial HVAC and Refrigeration
+
+* Rooftop units and packaged systems
+
+* Walk-in cooler and freezer service
+
+* Boiler systems and gas piping
+
+* Custom maintenance agreements
+
+We service all major brands, and we’ll always provide honest recommendations tailored to your home or business.
+
+## Why Portage Homeowners and Businesses Trust Hillestad
+
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+
+Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
+
+* **Local and Family-Rooted:** Proudly located in Lodi and supporting our
+surrounding communities since 1988.
+
+* **Experienced Technicians:** Skilled, certified and constantly trained.
+
+* **Prompt and Professional:** We show up on time and do it right the first time.
+
+* **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
+
+* **Clear and Honest Quotes:** No pushy upsell. No surprises.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23131.878662097373!2d-89.48732748529476!3d43.554779600828226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88072142e278caa7%3A0xe87ae504fd6cf193!2sPortage%2C%20WI%2053901!5e0!3m2!1sen!2sus!4v1745200723622!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
