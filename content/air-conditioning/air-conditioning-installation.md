@@ -4,73 +4,107 @@ menu:
   main:
     parent: "Air Conditioning"
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title: Air Conditioning Installation in Lodi, WI
+  meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading: Air Conditioning Installation in Lodi, WI
+  body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text:  Schedule Service
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Expert A/C Installation That Keeps You Cool for Years to Come
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
+Need a new air conditioner? Whether you're upgrading an old system or installing A/C for the first time, Hillestad Heating and Cooling makes the process easy, efficient and worry-free.
 
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
-
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
+From helping you choose the right unit for your home to expert installation and system testing, we’ll ensure you get long-lasting comfort and energy savings. Backed by over 30 years of local experience.
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
       <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
   </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Schedule Your Air Conditioning Installation Today!</h2>
 
-  * Madison 
+  If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
+  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 
 </div>
 
-## Bryant Authorized Dealer
+## When to Replace Your A/C System
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+Not sure if it’s time to replace your air conditioner? It may be time for a new system if:
 
-## Quick Facts About Tarkenton Brothers: 
+*	Your current unit is 10–15+ years old
 
-* Over 45 years in the HVAC and sheet metal business 
+*	You’ve had frequent repairs in recent years
 
-* Free replacement estimates 
+*	Your energy bills are rising without explanation
 
-* 24-hour emergency service 
+*	Your home isn’t cooling evenly or effectively
 
-* Residential and light commercial 
+*	Your system still uses outdated R-22 refrigerant
 
-* Licensed, bonded and fully insured 
+*	You’re planning renovations or upgrading to central air
 
-* Sales, service, installation
+If your A/C is showing its age or costing you more than it should, we’ll walk you through your options with no pressure and honest recommendations.
+
+## A/C Systems We Install
+
+We install a full range of cooling systems to fit homes of all sizes and budgets:
+
+*	**Central Air Conditioning:** Quiet, efficient whole-home cooling
+
+*	**Ductless Mini-Split Systems:** Zoned comfort for homes without ductwork
+
+*	**Heat Pumps:** Year-round efficiency for heating and cooling
+
+*	**High-Efficiency Upgrades:** Save energy and stay cool with the latest technology
+
+Not sure what you need? We’ll evaluate your space, listen to your goals and help you choose the system that fits your home, and your budget.
+
+## Why Lodi Homeowners Trust Hillestad
+
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+
+Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
+
+*	**Local and Family-Rooted:** Proudly serving Lodi and our surrounding communities since 1988.
+
+*	**Experienced Technicians:** Skilled, certified and constantly trained.
+
+*	**Prompt and Professional:** We show up on time and do it right the first time.
+
+*	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
+
+*	**Clear and Honest Quotes:** No pushy upsell. No surprises.
+
+## Air Conditioning Installation Near You
+
+We’re proud to serve communities across south-central Wisconsin, including:
+
+*	Lodi
+
+*	Sauk City
+
+*	Portage
+
+*	Baraboo
+
+*	Wisconsin Dells
+
+*	Madison
+
+*	And surrounding areas!
+
+Waunakee, Stoughton, Prairie du Sac?
+
+Not sure if you’re in our service area? Give us a call, we’re happy to help.

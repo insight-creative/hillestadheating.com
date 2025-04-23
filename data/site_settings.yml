@@ -1,16 +1,16 @@
-logo: /uploads/tarkenton-brothers-logo.jpg
-footer_logo: /uploads/tarkenton-brothers-logo.jpg
-business_name: Tarkenton Brothers Heating and Sheet Metal
-phone: 608-835-7319
+logo: /uploads/Hillestad-heating-logo.jpg
+footer_logo: /uploads/Hillestad-heating-logo.jpg
+business_name: Hillestad Heating and Cooling Systems
+phone: 608-592-4035
 fax:
 email:
 address:
-  city: Fitchburg
+  city: Lodi
   state: WI
-  street: 1837 Co Rd MM
-  zip: 53575
-google_maps_url: https://maps.app.goo.gl/6keaRviyw4YhbiH18
-google_maps_iframe: <iframe title="Google Maps location of Tarkenton Brothers Heating and Sheet Metal" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11680.706139360238!2d-89.3784484!3d42.9534841!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88064c96846b39cb%3A0xa1164eeb0fdc99b9!2sTarkenton%20Brothers%20Heating%20and%20Sheet%20Metal!5e0!3m2!1sen!2sus!4v1729066403398!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  street: 919 Development Drive
+  zip: 53555
+google_maps_url: https://maps.app.goo.gl/eKKtJQhAynYMzWWp7
+google_maps_iframe: <iframe title="Google Maps location of Hillestad Heating and Cooling Systems" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5804.989516008909!2d-89.54824992272242!3d43.324834973605064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807055485ba2153%3A0x855c658bbfbae1a9!2sHillestad%20Heating%20%26%20Cooling%20Systems!5e0!3m2!1sen!2sus!4v1744768146076!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 hours: "Mon-Fri: 7:00am - 4:30pm<br>24-hour emergency service"
 social_media:
   - title: Google Business Profile

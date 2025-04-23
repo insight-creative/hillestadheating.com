@@ -1,0 +1,18 @@
+
+{{ define "main" }}
+    {{ partial "hero" .  }}
+    {{ if .Content  }}
+    <div class="block">
+        <div class="wrapper flow">
+            <span class="brand-divider brand-divider--dark">
+                <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
+            </span>
+            {{ .Content  }}
+            <div class="contact-info__col w-100 w-70-m">
+                {{ partial "forms/application-form" . }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+    {{ partial "cta" . }}
+{{ end }}

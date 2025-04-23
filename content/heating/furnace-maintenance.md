@@ -4,73 +4,94 @@ menu:
   main:
     parent: "Heating"
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title: Furnace Maintenance in Lodi, WI
+  meta_description: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading: Furnace Maintenance in Lodi, WI
+  body: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text:  Schedule Service
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Keep Your Furnace Running Smoothly, Season After Season
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
+Don’t wait for a breakdown to give your furnace the attention it needs. Regular maintenance helps your heating system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling, furnace maintenance is stress-free, comprehensive and keeps your home running warm all winter.
 
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
+Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their heating systems, no matter the brand or age.
 
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
 
 <div class="breakout bg-black flow">
   <span class="brand-divider">
       <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
   </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Schedule Your Furnace Maintenance Today!</h2>
 
-  * Madison 
+  Don’t leave your comfort to chance. Schedule your furnace maintenance with Hillestad Heating and Cooling and head into winter worry-free. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
+  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
 
 </div>
 
-## Bryant Authorized Dealer
+## Why Furnace Maintenance Matters
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+Annual furnace maintenance isn’t just a recommendation, it’s the best way to protect your investment and your comfort. Here’s what a professional tune-up from Hillestad can help you avoid:
 
-## Quick Facts About Tarkenton Brothers: 
+*	Unexpected breakdowns in the dead of winter
 
-* Over 45 years in the HVAC and sheet metal business 
+*	Higher energy bills from inefficient operation
 
-* Free replacement estimates 
+*	Poor airflow or uneven heating
 
-* 24-hour emergency service 
+*	Dirt and dust buildup that can damage components
 
-* Residential and light commercial 
+*	Shortened equipment life
 
-* Licensed, bonded and fully insured 
+*	Potential safety issues like gas leaks or carbon monoxide risks
 
-* Sales, service, installation
+Our maintenance services are designed to catch small issues before they become big problems—saving you money and stress down the road.
+
+## Why Lodi Homeowners Trust Hillestad 
+
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+
+Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
+
+*	**Local and Family-Rooted:** Proudly serving Lodi and our surrounding communities since 1988.
+
+*	**Experienced Technicians:** Skilled, certified and constantly trained.
+
+*	**Prompt and Professional:** We show up on time and do it right the first time.
+
+*	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
+
+*	**Clear and Honest Quotes:** No pushy upsell. No surprises.
+
+## Furnace Maintenance Near You
+
+We’re proud to serve communities across south-central Wisconsin, including:
+
+*	Lodi
+
+*	Sauk City
+
+*	Portage
+
+*	Baraboo
+
+*	Wisconsin Dells
+
+*	Madison
+
+*	And surrounding areas!
+
+Waunakee, Stoughton, Prairie du Sac?
+
+Not sure if you’re in our service area? Give us a call, we’re happy to help.
