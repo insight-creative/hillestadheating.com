@@ -12,7 +12,7 @@ hero:
   heading: HVAC Services in Wisconsin Dells, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-kitchen-with-women_ldxodc.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -26,9 +26,6 @@ hero:
 Whether it’s the chilly mornings by the Wisconsin River or the hot summer days on Lake Delton, Hillestad Heating and Cooling keeps your Wisconsin Dells home or business comfortable. Family‑owned since 1988, we’ve built our reputation on reliable service and quality products. Our certified, friendly technicians arrive promptly and tackle every job with care and professionalism.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Need HVAC Service in Wisconsin Dells?</h2>
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 643-8788.

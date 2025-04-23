@@ -1,6 +1,6 @@
 <div class="contact-form">
     <span class="font-size-sm text-primary b">Request Non-Emergency Service</span>
-    <p class="font-size-xs">Need emergency service? Call now <a class="contact-form__call-link" href="tel:{{ .Site.Data.site_settings.phone }}" aria-label="Call Hillestad Heating and Cooling">{{ .Site.Data.site_settings.phone }}</a></p>
+    <p class="font-size-xs">Need emergency service? Call now <a class="contact-form__call-link" href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}" aria-label="Call Hillestad Heating and Cooling">{{ .Site.Data.site_settings.phone }}</a></p>
     <div class="contact-form__wrapper">
         <form name="Request Service" method="POST" action="/thank-you/">
             <div class="visually-hidden">

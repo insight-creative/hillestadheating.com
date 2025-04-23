@@ -4,73 +4,104 @@ menu:
   main:
     parent: "Heating"
 seo:
-  page_title: Heating and Cooling Company in Fitchburg, WI
-  meta_description: Learn more about the HVAC professionals at Tarkenton Brothers Heating and Sheet Metal. Our team is ready to help you - call us today to schedule an appointment!
+  page_title: Furnace Installation in Lodi, WI
+  meta_description: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating provides honest recommendations and professional service since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Heating and Cooling Company in Fitchburg, WI
-  body: Professionally trained technicians servicing all brands, makes and models.
+  heading: Furnace Installation in Lodi, WI
+  body: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating provides honest recommendations and professional service since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-working-on-furnace-in-basement-4_unv3s7.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Request Service
+    button_text: Schedule Installation
     open_in_new_tab: false
 ---
 
-## Over 45 Years of Heating and Cooling Experience
+## Get Reliable Heat with a New Furnace Installation
 
-At Tarkenton Brothers Heating and Sheet Metal, we’ve been providing reliable HVAC service, repair and installation—including complete HVAC ductwork—since 1979. What started as a business run by three brothers has evolved into a family tradition, with their sons and cousins proudly working here today. We remain family-owned and operated, committed to offering exceptional service to our customers across residential and commercial HVAC needs. 
+Is your old furnace is struggling to keep up? Is it costing you more in repairs and energy bills? It may be time for a replacement. At Hillestad Heating and Cooling, we make furnace installation simple and stress-free.
 
-Our services include expert repairs and complete system installations, including custom ductwork. We prioritize quality in everything we do and believe in getting the job done right the first time. This approach ensures long-lasting systems and satisfied customers because when the work is done properly, everyone’s happy. 
+We’ve helped hundreds of homeowners in Lodi and surrounding communities upgrade to modern, high-efficiency heating systems. Whether you’re replacing an aging furnace or starting from scratch in a new build, our licensed technicians will help you choose the right system for your home and install it with precision.
 
-At Tarkenton Brothers, we’re straightforward and relatable. Our team won’t sugarcoat the condition of your HVAC system. We’ll give you an honest, clear assessment while keeping things light and friendly. Our technicians and installers have been with us for years, and many customers have come to know them personally. When you see a Tarkenton Brothers truck pull up, you’ll likely be greeted by someone familiar—helping build trust through every service call. 
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
+  <h2 class="no-margin">Ready for a New Furnace Installation?</h2>
 
-  * Madison 
+  We’re here to help you find a furnace that fits your home, your comfort needs and your budget. Call (608) 231-3888 or schedule your estimate online today.
 
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-
+  <a class="btn btn--primary" href="/contact/">Schedule Installation</a>
 </div>
 
-## Bryant Authorized Dealer
+## Signs It’s Time to Replace Your Furnace
 
-As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more. 
+Not sure if it’s time for a new furnace? Here are some signs your system might be ready for retirement:
 
-## Quick Facts About Tarkenton Brothers: 
+* Furnace is 15+ years old
 
-* Over 45 years in the HVAC and sheet metal business 
+* Frequent and costly repairs
 
-* Free replacement estimates 
+* Rising energy bills without increased usage
 
-* 24-hour emergency service 
+* Uneven heating throughout your home
 
-* Residential and light commercial 
+* Loud or strange noises during operation
 
-* Licensed, bonded and fully insured 
+* Yellow pilot light or visible rust
 
-* Sales, service, installation
+If you're experiencing any of these issues, we’ll provide a pressure-free assessment and walk you through your options.
+
+## Our Furnace Installation Process
+
+We take pride in making every installation smooth and straightforward:
+
+1. In-home evaluation: We assess your current setup and heating needs.
+
+2. System recommendations: We help you choose the right unit—no brand bias, no upsell.
+
+3. Upfront quote: Transparent pricing with no hidden fees.
+
+4. Professional installation: Done by licensed techs who respect your space.
+
+5. Final testing & walk-through: We’ll make sure everything runs perfectly—and show you how it works.
+
+We install all major brands and offer high-efficiency options to help you save energy and money for years to come.
+
+## Why Lodi Homeowners Choose Hillestad
+
+For more than 30 years, Hillestad Heating and Cooling has been helping families throughout Lodi stay warm with service that’s honest, dependable, and locally rooted.
+
+Here’s why our customers continue to trust us with their comfort:
+
+* **Local and Family-Rooted**: Proudly serving Lodi and nearby towns since 1988
+
+* **Skilled, Licensed Technicians**: Experienced and certified in furnace replacement
+
+* **No-Pressure Sales**: We recommend what’s best—not what’s most expensive
+
+* **High-Efficiency Focus**: Save energy without sacrificing comfort
+
+* **Clear Communication**: From estimate to install, we keep it simple
+
+## Furnace Installation Near You
+
+We’re proud to serve communities across south-central Wisconsin, including:
+
+*	Lodi
+
+*	Sauk City
+
+*	Portage
+
+*	Baraboo
+
+*	Wisconsin Dells
+
+*	Madison
+
+*	And surrounding areas!
+
+Not sure if you’re in our service area? Give us a call, we’re happy to help.

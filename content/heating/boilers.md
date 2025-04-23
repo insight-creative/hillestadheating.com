@@ -12,7 +12,7 @@ hero:
   heading:  Boiler Services in Lodi, WI
   body: Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /boiler-installation-in-lodi-wi_hndrf8.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -26,9 +26,6 @@ hero:
 Whether your home relies on radiant heat, baseboard heating or an older steam boiler system, Hillestad Heating and Cooling has the expertise to keep it running efficiently. From quick repairs to full system upgrades, our licensed technicians are here to deliver dependable boiler service with the care and quality you expect from a name that’s served southern Wisconsin since 1988.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Boiler Repair Service Today!</h2>
 
 Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at (608) 231-3888
@@ -102,7 +99,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

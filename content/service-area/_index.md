@@ -12,7 +12,7 @@ hero:
   heading: Heating and Cooling Services Near You
   body: Need HVAC service near Lodi? Hillestad provides fast, reliable heating and cooling solutions across Dane County and beyond.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-with-man-furnace-basement_kfovdu.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ At Hillestad Heating and Cooling, we’ve proudly served Lodi-area homeowners an
 Whether you're in Lodi or in one of the many neighboring communities, our team is ready to help. 
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">HVAC Services Near You</h2>
   We’re proud to serve communities across south-central Wisconsin, including: 
 
@@ -47,8 +44,6 @@ Whether you're in Lodi or in one of the many neighboring communities, our team i
   * Madison
   
   * And surrounding areas!
-  
-  Waunakee, Stoughton, Prairie duSac?
 
   Not sure if you're in our service area? Give us a call, we are happy to help.
 

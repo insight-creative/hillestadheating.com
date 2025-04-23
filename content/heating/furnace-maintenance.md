@@ -12,7 +12,7 @@ hero:
   heading: Furnace Maintenance in Lodi, WI
   body: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-working-on-furnace-in-basement-2_xo0etw.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -29,9 +29,6 @@ Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and su
 
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Furnace Maintenance Today!</h2>
 
   Don’t leave your comfort to chance. Schedule your furnace maintenance with Hillestad Heating and Cooling and head into winter worry-free. Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -91,7 +88,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

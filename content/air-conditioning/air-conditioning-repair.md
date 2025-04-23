@@ -12,7 +12,7 @@ hero:
   heading: Air Conditioning Repair in Lodi, WI
   body: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-with-woman-outside_noqdxy.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ If your air conditioner isn’t keeping up with the heat, Hillestad Heating and 
 Whether your A/C is blowing warm air, making strange noises or has stopped working altogether, our licensed technicians are trained to fix it quickly and correctly. We’ve been the go-to cooling repair team in Lodi and nearby communities since 1988.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Air Conditioning Repair Today!</h2>
 
  If your air conditioner is acting up, don’t wait. Call Hillestad Heating and Cooling for trusted A/C repair that’s fast, fair and built to last. Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -92,7 +89,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

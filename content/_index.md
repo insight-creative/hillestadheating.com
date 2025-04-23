@@ -1,18 +1,18 @@
 ---
 title: Home
 seo:
-  page_title: HVAC Company in Fitchburg, WI
-  meta_description: Tarkenton Brothers Heating and Sheet Metal has over 45 years of experience providing HVAC services in Fitchburg, WI. Our trained technicians are here to help you. Call us today!
+  page_title: HVAC Company in Lodi, WI
+  meta_description: Hillestad Heating and Cooling Systems has over 45 years of experience providing HVAC services in Fitchburg, WI. Our trained technicians are here to help you. Call us today!
   featured_image: /uploads/richter-social-preview.jpg
   featured_image_alt:
 hero: 
-  heading: HVAC Company in Fitchburg, WI
-  body: Providing Fitchburg, Oregon and the Madison Area with quality HVAC and sheet metal services and reliable products since 1979.
+  heading: HVAC Company in Lodi, WI
+  body: Providing Lodi, Baraboo, Sauk City and the surrounding areas with quality heating and cooling systems since 1988.
   highlights: 
     - icon: licensed
       body: Licensed, bonded and fully insured
     - icon: family
-      body: Family-owned since 1979
+      body: Family-owned since 1988
     - icon: certification
       body: Certified HVAC professionals
   image: 
@@ -24,8 +24,8 @@ hero:
     button_text: 
     open_in_new_tab: false
 intro:
-  heading: Over 45 Years of HVAC and Sheet Metal Experience
-  body: "Tarkenton Brothers Heating and Sheet Metal is a locally owned business that sells and services HVAC systems and installs complete HVAC ductwork for residential and commercial customers. We proudly represent the Bryant line of residential heating and cooling products. We service most makes and models of gas furnaces, boilers, air conditioners, humidifiers and air cleaners. Our technicians attend regular classes and training to keep up with the newest equipment and technology in the HVAC and duct metal fabrication fields."
+  heading: Trusted HVAC Professionals Since 1988
+  body: "Hillestad Heating and Cooling Systems is a HVAC Company in Lodi, WI. We sell and service HVAC systems and install complete HVAC ductwork for residential and commercial customers. We proudly represent the Bryant line of residential heating and cooling products. We service most makes and models of gas furnaces, boilers, air conditioners, humidifiers and air cleaners."
   image: knope-heating-and-air-conditioning
   image_alt: Bryant service repairmen meeting with client and looking and furnaces and air conditioning units
   button:
@@ -55,20 +55,20 @@ featured:
     image: /uploads/bryant-factory-authorized-dealer-logo-2.png
     image_alt: Bryant Factory Authorized Dealer Logo
     heading: Bryant Authorized Dealer
-    body: As a factory-authorized dealer of quality Bryant products, Tarkenton Brothers Heating and Sheet Metal knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more.
+    body: As a factory-authorized dealer of quality Bryant products, Hillestad Heating and Cooling Systems knows the value of quality products and equipment. We offer a large selection of Energy Star products ranging from air conditioners and furnaces to air purifiers, ductless split systems and more.
     button:
-      enabled: true
+      enabled: false
       button_url: /products/
       button_text: View Our Products
       open_in_new_tab: false
 testimonials:
-  - testimonial: Tarkenton Brothers have helped me repeatedly save money on my heating and cooling systems. When there is an issue, they came out within 24 hours to fix my air conditioner. They are always friendly and I feel I get a very good value with them.
-    author: "- Lisa Grueneberg"
-    company: "Fitchburg, WI"
-  - testimonial: Tarkenton Brothers does great work! The service techs are so friendly and responsive. Thanks for saving the day!
-    author: "- Ashley Clark"
-    company: "Fitchburg, WI"
-  - testimonial: I have used Brad for over thirty years and he has always done a great job for me. He has handled many emergencies over the years for me at home and at my rental properties. He is hard-working, fair and honest. I highly recommend Brad and Tarkenton Brothers  for any heating or air conditioning needs.
-    author: "- Joel Winnig"
-    company: "Fitchburg, WI"
+  - testimonial: Huge shout out and thank you to the professional, respectful staff at Hillestad. They've had my back numerous times and I now have a new furnace due to issues they detected.  I highly recommend them.
+    author: "- Lora Yoder"
+    company: "Lodi, WI"
+  - testimonial: My furnace stopped working. I called Hillestad Heating and Cooling. A tech came out and fixed it right away. Great service and the people in the office are very nice and friendly. Thank you again for great the service!
+    author: "- Tony Kieffer"
+    company: "Lodi, WI"
+  - testimonial: I contacted Hillestad because we were having issues with our air conditioner as the hottest days were upon us. They were quick to come to our home and service our unit. Complete check over and repair at an affordable price.
+    author: "- Carla Wiessing"
+    company: "Lodi, WI"
 ---

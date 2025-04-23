@@ -12,7 +12,7 @@ hero:
   heading: Air Conditioning Installation in Lodi, WI
   body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-technician-installing-new-air-conditioner-1000_tppmxb.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ Need a new air conditioner? Whether you're upgrading an old system or installing
 From helping you choose the right unit for your home to expert installation and system testing, we’ll ensure you get long-lasting comfort and energy savings. Backed by over 30 years of local experience.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Air Conditioning Installation Today!</h2>
 
   If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -104,7 +101,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

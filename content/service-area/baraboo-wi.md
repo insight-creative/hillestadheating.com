@@ -12,7 +12,7 @@ hero:
   heading: HVAC Services in Baraboo, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-crouching-conversation-outside_m1f9ow.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ When your home or business in Baraboo needs heating or cooling service, Hillesta
 Whether you live near Devil’s Lake, in town or outside the city limits, we’re here to help you stay comfortable all year long. 
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Need HVAC Service in Baraboo?</h2>
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 356-4550.

@@ -34,21 +34,18 @@ has you covered.
 
 We specialize in:
 
-* **Furnace Repair** – Fast diagnostics and repairs to restore your heat ASAP.
+* **Furnace Repair**: Fast diagnostics and repairs to restore your heat ASAP.
 
-* **Furnace Installation** – Energy-efficient systems installed with precision.
+* **Furnace Installation**: Energy-efficient systems installed with precision.
 
-* **Furnace Maintenance** – Tune-ups that save energy and prevent breakdowns.
+* **Furnace Maintenance**: Tune-ups that save energy and prevent breakdowns.
 
-* **Boiler Services** – Repair, replacement, and maintenance of modern and older boiler systems.
+* **Boiler Services**: Repair, replacement, and maintenance of modern and older boiler systems.
 
 
 We work with all major brands and systems—delivering honest recommendations, transparent pricing, and dependable work with every job.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Heating Service Today!</h2>
 
 Ready to get started with your service or repairs? Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -90,7 +87,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
   * Madison
   
   * And surrounding areas!
-  
-  Waunakee, Stoughton, Prairie duSac?
 
   Not sure if you're in our service area? Give us a call, we are happy to help.

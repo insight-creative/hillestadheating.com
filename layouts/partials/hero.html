@@ -5,9 +5,6 @@
 {{ end }}
 <section class="hero--split {{ if eq .Title "Home" }}hero--home{{ end }}" aria-labelledby="hero-heading">
   <div class="hero--split__content text-color-white flow">
-    <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-    </span>
     <h1 class="no-margin" id="hero-heading">{{ .Params.hero.heading }}</h1>
     <div class="hero__body">
       {{ if .Params.hero.body }}

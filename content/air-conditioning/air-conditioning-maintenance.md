@@ -12,7 +12,7 @@ hero:
   heading: Air Conditioning Maintenance in Lodi, WI
   body: Want to avoid cooling issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-checking-gauges_eiph2q.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ Don’t wait for a breakdown to give your air conditioner the attention it needs
 Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their heating systems, no matter the brand or age.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Air Conditioning Maintenance Today!</h2>
 
   Don’t leave your comfort to chance. Schedule your furnace maintenance with Hillestad Heating and Cooling and head into summer worry-free. Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -87,7 +84,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

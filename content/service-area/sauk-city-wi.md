@@ -12,7 +12,7 @@ hero:
   heading: HVAC Services in Sauk City, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-showing-customer-ipad-2_w63imo.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ When the seasons shift along the banks of the Wisconsin River or the summer sun 
 Whether it’s breathing new life into an aging furnace on a frosty morning or installing a whisper‑quiet, energy‑smart air conditioner for those sweltering afternoons, Hillestad Heating and Cooling is your local HVAC expert—committed to keeping the Sauk Prairie community comfortable every single day of the year.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Need HVAC Service in Sauk City?</h2>
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 643-8788.

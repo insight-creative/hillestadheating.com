@@ -12,7 +12,7 @@ hero:
   heading: Indoor Air Quality Solutions in Lodi, WI
   body: Improve your air quality with Aprilaire. Hillestad delivers expert installation of whole-home systems to reduce allergens, mold and stale air.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /aprilaire-indoor-air-quality-equipment-installation_h5cpfu.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ You can’t always see air quality problems, but you can feel them. Whether it�
 At Hillestad Heating and Cooling, we help you breathe easier with expert IAQ solutions that make your home safer, fresher and healthier year-round.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Healthier Air Starts Here</h2>
 
 Whether you want to relieve allergies, reduce illness or simply make your home feel fresher, we’re here to help. Our team will assess your home, explain your options and install trusted solutions that last. Call us at (608) 231-3888.
@@ -108,7 +105,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 * Madison
 
 * And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

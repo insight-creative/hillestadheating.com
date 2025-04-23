@@ -12,7 +12,7 @@ hero:
   heading: About Hillestad Heating and Cooling
   body: From garage startup to trusted HVAC leader, Hillestad Heating has proudly served Wisconsin homes and businesses since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryan-dealer-conversation-with-couple-outside_xckxnj.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -32,54 +32,8 @@ demanded. The sheet metal shop alone has relocated three times to accommodate in
 
 Today, Hillestad is proud to be a trusted name in south-central Wisconsin for heating, cooling, refrigeration and indoor air quality services. We’ve never forgotten where we came from, and we carry that same spirit of commitment, craftsmanship and care into every job we do.
 
-<!--
-<div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
-  <h2 class="no-margin">Servicing Dane County Including:</h2>
-
-  * Madison 
-
-  * Fitchburg 
-
-  * Oregon 
-
-  * Middleton
-  
-  * Monona
-  
-  * Stoughton
-  
-  * Sun Prairie
-  
-  * Verona
-
-  * and more
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-
-</div>
--->
-
 ## Our Philosophy
 
 At Hillestad, you get more than just technically advanced and reliable heating equipment, you get a highly dedicated customer support team covering an area between Stoughton and Wisconsin Dells. Our team is well-trained and experienced in all areas of HVAC, including servicing existing equipment, installing new systems, replacing old units and providing routine maintenance.
 
 From the beginning, Hillestad has focused on residential homes and light commercial work. That remains true today, with continued dedication to servicing and replacing HVAC equipment, always with customer satisfaction as our top priority.
-
-<!--
-## Quick Facts About Tarkenton Brothers: 
-
-* Over 45 years in the HVAC and sheet metal business 
-
-* Free replacement estimates 
-
-* 24-hour emergency service 
-
-* Residential and light commercial 
-
-* Licensed, bonded and fully insured 
-
-* Sales, service, installation
--->

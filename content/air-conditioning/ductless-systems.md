@@ -12,7 +12,7 @@ hero:
   heading: Ductless Mini-Split Systems in Lodi, WI
   body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-outside-ipad-ductless-unit_nzv8ax.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ Looking for flexible, energy-efficient cooling or heating, without the hassle of
 Whether you're upgrading a single room, finishing a basement or replacing old electric baseboards, our experienced team will help you find the right ductless setup for your home.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Get Ductless Comfort That Fits Your Home</h2>
 
   Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at (608) 231-3888.
@@ -99,7 +96,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

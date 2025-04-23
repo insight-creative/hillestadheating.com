@@ -10,6 +10,6 @@ hero:
   heading: Contact Us
   body: Whether it's routine maintenance or emergency repairs, our team of certified HVAC professionals is here to help you.
   image: 
-    image_url: /uploads/bryant-technician-showing-new-thermostat
+    image_url: /bryant-dealer-with-family-outside_vgk9o6.jpg
     image_alt: Richter building and parking lot filled with work vans loading supplies for the work day
 ---

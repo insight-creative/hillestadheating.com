@@ -12,7 +12,7 @@ hero:
   heading: HVAC Services in Portage, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-showing-customer-ipad_ptwrr9.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ When your home or business in Portage needs heating or cooling support, Hillesta
 From chilly winter furnace repair to high‑efficiency air conditioner installs on those hot summer days, Hillestad Heating and Cooling is your local HVAC partner, dedicated to keeping our community comfortable year‑round.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Need HVAC Service in Portage?</h2>
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 742-7771.

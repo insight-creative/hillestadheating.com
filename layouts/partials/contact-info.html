@@ -19,7 +19,7 @@
   </div>
   {{ if .Site.Data.site_settings.phone }}
     <div>
-      <small>Phone</small><br><a href="tel:{{ .Site.Data.site_settings.phone }}">{{ .Site.Data.site_settings.phone }}</a>
+      <small>Phone</small><br><a href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}">{{ .Site.Data.site_settings.phone }}</a>
     </div>
   {{ end }}
   {{ if .Site.Data.site_settings.fax }}

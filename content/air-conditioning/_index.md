@@ -12,7 +12,7 @@ hero:
   heading: Air Conditioning Services in Lodi, WI
   body: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-with-family-outside_vgk9o6.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ When the Wisconsin heat hits, you need an air conditioning system you can count 
 Whether you need a quick fix, seasonal tune-up or a full system replacement, our experienced team is ready to deliver fast, honest and high-quality air conditioning service across Lodi, Baraboo, Portage and beyond.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Schedule Your Air Conditioning Service Today!</h2>
 
 Don’t sweat it out this summer. Whether your A/C needs a quick repair or a complete refresh, Hillestad Heating and Cooling is just a call away. Schedule your appointment online, or give us a call at (608) 231-3888.
@@ -86,7 +83,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

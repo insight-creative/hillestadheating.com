@@ -12,7 +12,7 @@ hero:
   heading: HVAC Services in Lodi, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /bryant-dealer-checking-gauges-2_oauphv.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -28,9 +28,6 @@ Looking for reliable HVAC services in Lodi? You don’t have to look far, Hilles
 From chilly winter furnace repairs to summer A/C installations, we’re your hometown HVAC partner, committed to keeping our neighbors comfortable all year long.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
   <h2 class="no-margin">Need HVAC Service in Lodi?</h2>
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 592-4035.

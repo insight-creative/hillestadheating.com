@@ -22,7 +22,7 @@
             </div>
             <div class="business-info__col-content">
                 <p class="b text-primary">Call Us Today!</p>
-                <p><a href="tel:{{ .Site.Data.site_settings.phone }}">{{ .Site.Data.site_settings.phone }}</a></p>
+                <p><a href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}">{{ .Site.Data.site_settings.phone }}</a></p>
             </div>
         </div>
     </div>

@@ -28,9 +28,7 @@ Running a business is tough enough, your heating, cooling and refrigeration syst
 From offices and retail spaces to restaurants and light industrial buildings, our licensed technicians deliver responsive, knowledgeable service that Wisconsin businesses have trusted since 1988.
 
 <div class="breakout bg-black flow">
-  <span class="brand-divider">
-      <img src="/uploads/tarkenton-arrow-logomark-up.png" alt="">
-  </span>
+
   <h2 class="no-margin">Let’s Keep Your Business Running Smoothly</h2>
 
   Looking for a trusted HVAC and refrigeration partner? Hillestad Heating and Cooling is here to help with professional commercial service that’s fast, fair and dependable. Call us at (608) 231-3888.
@@ -160,7 +158,5 @@ We’re proud to serve communities across south-central Wisconsin, including:
 *	Madison
 
 *	And surrounding areas!
-
-Waunakee, Stoughton, Prairie du Sac?
 
 Not sure if you’re in our service area? Give us a call, we’re happy to help.

@@ -12,7 +12,7 @@ hero:
   heading: Pay Online
   body: For your convenience you can pay your Hillestad invoice with a credit card (up to $5,000)
   image: 
-    image_url: /uploads/husband-and-wife-sitting-at-table-with-bryant-salesperson
+    image_url: /bryant-dealer-kitchen-with-women_ldxodc.jpg
     image_alt: Bryant salesperson meeting with homeowners at kitchen table
   button:
     enabled: true
@@ -26,7 +26,7 @@ hero:
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### The Information We Collect
-This notice applies to all information collected or submitted on the Hillestad Heating & Cooling Systems website. On some pages, you can pay on-line, and make requests. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Hillestad Heating and Cooling Systems website. On some pages, you can pay on-line, and make requests. The types of personal information collected at these pages are:
 
 * Name
 * Address

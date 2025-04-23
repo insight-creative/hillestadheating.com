@@ -2,15 +2,15 @@
 <a class="screen-reader-skip-to-content" href="#main-content" tabindex="0" aria-label="Skip to main content">Skip to main content</a>
 <a class="screen-reader-skip-to-content" href="#footer" tabindex="0" aria-label="Skip to footer content">Skip to footer content</a>
 <div class="call-us-banner bg-primary text-align-center">
-  <a class="call-us-banner__phone flex flex-center flex-justify-center" href="tel:{{ .Site.Data.site_settings.phone }}" aria-label="Call Tarkenton Brothers Heating and Sheet Metal"><span class="icon-sm icon-fill-primary">{{ partial "svg-icons/phone.svg" . }}</span> Call Us: {{ .Site.Data.site_settings.phone }}</a>
+  <a class="call-us-banner__phone flex flex-center flex-justify-center" href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}" aria-label="Call Hillestad Heating and Cooling Systems"><span class="icon-sm icon-fill-primary">{{ partial "svg-icons/phone.svg" . }}</span> Call Us: {{ .Site.Data.site_settings.phone }}</a>
 </div>
 <header class="header bg-white">
   <div class="header__top bg-gray">
     <nav class="header__secondary-nav wrapper-lg flex flex-center flex-justify-space-around" aria-label="secondary navigation">
       <div class="header__top-emergency-phone flex flex-center gap-sm w-100">
         <span class="font-size-xs">24/7 Emergency Service Available</span>
-        <a class="header__nav-list-link flex flex-center gap-xs" href="tel:+16082313888" aria-label="">
-          <div class="icon icon-xs icon-fill-primary">{{ partialCached "svg-icons/phone.svg" . }}</div> 608 231-3888
+        <a class="header__nav-list-link flex flex-center gap-xs" href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}" aria-label="">
+          <div class="icon icon-xs icon-fill-primary">{{ partialCached "svg-icons/phone.svg" . }}</div> {{ .Site.Data.site_settings.phone }}
         </a>
       </div>
       <ul class="header__nav-list">
