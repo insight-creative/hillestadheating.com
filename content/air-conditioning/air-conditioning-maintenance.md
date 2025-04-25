@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and su
 
   Don’t leave your comfort to chance. Schedule your furnace maintenance with Hillestad Heating and Cooling and head into summer worry-free. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

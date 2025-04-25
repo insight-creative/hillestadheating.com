@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ At Hillestad Heating and Cooling, we help you breathe easier with expert IAQ sol
 
 Whether you want to relieve allergies, reduce illness or simply make your home feel fresher, we’re here to help. Our team will assess your home, explain your options and install trusted solutions that last. Call us at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

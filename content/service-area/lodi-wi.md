@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ From chilly winter furnace repairs to summer A/C installations, we’re your hom
 
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 592-4035.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

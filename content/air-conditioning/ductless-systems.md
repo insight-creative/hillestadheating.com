@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ Whether you're upgrading a single room, finishing a basement or replacing old el
 
   Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

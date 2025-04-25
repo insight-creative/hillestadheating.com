@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ From strange noises and weak airflow to complete system breakdowns, we’ve been
 
 If your furnace is acting up, don’t wait until it’s too late. Contact Hillestad Heating and Cooling for fast, friendly furnace repair you can rely on. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

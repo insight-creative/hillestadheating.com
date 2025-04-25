@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -50,7 +50,7 @@ We work with all major brands and systems—delivering honest recommendations, t
 
 Ready to get started with your service or repairs? Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

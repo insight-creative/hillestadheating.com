@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -33,7 +33,7 @@ From offices and retail spaces to restaurants and light industrial buildings, ou
 
   Looking for a trusted HVAC and refrigeration partner? Hillestad Heating and Cooling is here to help with professional commercial service that’s fast, fair and dependable. Call us at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 
@@ -121,7 +121,7 @@ With Aprilaire, you can go beyond just adjusting the thermostat. These advanced 
 
 All of these indoor air essentials come into perfect harmony with a single, easy-to-use control system, making it simple to manage your comfort year-round.
 
-###Property Management
+### Property Management
 
 Hillestad works closely with property owners and managers to handle all heating, cooling and refrigeration needs, whether you’re local or managing from afar. We offer 24/7 emergency service, flexible maintenance plans and dependable support for single properties or large portfolios. From routine upkeep to urgent repairs, we make sure your guests and tenants stay comfortable and your systems stay efficient.
 

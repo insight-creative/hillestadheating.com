@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ Whether you need a quick fix, seasonal tune-up or a full system replacement, our
 
 Don’t sweat it out this summer. Whether your A/C needs a quick repair or a complete refresh, Hillestad Heating and Cooling is just a call away. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

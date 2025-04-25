@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -32,7 +32,7 @@ From helping you choose the right unit for your home to expert installation and 
 
   If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at (608) 231-3888.
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 

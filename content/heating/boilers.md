@@ -17,7 +17,7 @@ hero:
   button:
     enabled: true
     button_url: /contact/ 
-    button_text:  Schedule Service
+    button_text:  Request Service
     open_in_new_tab: false
 ---
 
@@ -30,7 +30,7 @@ Whether your home relies on radiant heat, baseboard heating or an older steam bo
 
 Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at (608) 231-3888
 
-  <a class="btn btn--primary" href="/contact/">Schedule Service</a>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
 
