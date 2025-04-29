@@ -1,0 +1,26 @@
+// assets/scss/components/_map-cta.scss
+
+.map-cta-container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;  // so the box z-index is relative to this container
+  }
+  .map-cta__map, .map-cta__box {
+    grid-row: 1 / 10;
+  }
+  .map-cta__map {
+    grid-column: 1 / -1; // span all 12 columns
+  }
+  
+  .map-cta__box{
+    grid-column: 10 / -1;  // occupy columns 9–12 → right 1/3 of container
+    align-self:  center;  // vertical centering within that row
+
+  
+    /* control its own width if you want it narrower than the 4col span */
+    /* e.g. max-width: 100%; or max-width: 30rem; */
+  }
+  .map-cta__box p, .map-cta__box a {
+    font-size: $ic-100;
+  }
+  
