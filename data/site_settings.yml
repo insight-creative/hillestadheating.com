@@ -30,3 +30,25 @@ social_media:
     link: 
   - title: Yelp
     link: 
+
+phones:
+  lodi:
+    display: "(608) 592-4035"
+    tel: "+16085924035"
+  baraboo:
+    display: "(608) 356-4550"
+    tel: "+16083564550"
+  saukcity:
+    display: "(608) 643-8788"
+    tel: "+16086438788"
+  madison:
+    display: "(608) 231-3888"
+    tel: "+16082313888"
+  widells:
+    display: "(608) 253-4101"
+    tel: "+16082534101"
+  portage:
+    display: "(608) 742-7771"
+    tel: "+16087427771"
+
+  

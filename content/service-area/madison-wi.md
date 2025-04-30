@@ -23,7 +23,7 @@ hero:
 mapEmbedID: "!1m18!1m12!1m3!1d93245.52328393482!2d-89.4091475!3d43.0851225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8806536d3a2019ff%3A0x4e0cfcb5ba484198!2sMadison%2C%20WI!5e0!3m2!1sen!2sus!4v1745896853045!5m2!1sen!2sus"
 cta:
   heading: Need HVAC Service in Madison?
-  body: Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 231-3888.
+  body: Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.
 ---
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Madison, WI
 
@@ -33,9 +33,9 @@ From chilly winter furnace repair to high‑efficiency air conditioner installs 
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Madison?</h2>
-
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 231-3888.
-
+<p class= "site-cta__middle">
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.
+</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>

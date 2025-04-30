@@ -1,5 +1,6 @@
 ---
 title: Wisconsin Dells, WI
+layout: servicearea
 menu:
   main:
     parent: "Service Area"
@@ -19,6 +20,11 @@ hero:
     button_url: /contact/ 
     button_text:  Request Service
     open_in_new_tab: false
+mapEmbedID: "!1m18!1m12!1m3!1d46200.28145364815!2d-89.85641505652275!3d43.63739857602869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807493e07cb769d%3A0x4acd26cd280b3378!2sWisconsin%20Dells%2C%20WI!5e0!3m2!1sen!2sus!4v1745202840715!5m2!1sen!2sus"
+cta:
+  heading: Need HVAC Service in Wisconsin Dells?
+  body: |
+    Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "widells" >}}.
 ---
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Wisconsin Dells, WI
@@ -27,9 +33,9 @@ Whether it’s the chilly mornings by the Wisconsin River or the hot summer days
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Wisconsin Dells?</h2>
-
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 643-8788.
-
+<p class= "site-cta__middle">
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "widells" >}}.
+</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
@@ -97,4 +103,3 @@ surrounding communities since 1988.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46200.28145364815!2d-89.85641505652275!3d43.63739857602869!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807493e07cb769d%3A0x4acd26cd280b3378!2sWisconsin%20Dells%2C%20WI!5e0!3m2!1sen!2sus!4v1745202840715!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

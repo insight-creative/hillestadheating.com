@@ -1,5 +1,6 @@
 ---
 title: Baraboo, WI
+layout: servicearea
 menu:
   main:
     parent: "Service Area"
@@ -19,6 +20,10 @@ hero:
     button_url: /contact/ 
     button_text:  Request Service
     open_in_new_tab: false
+mapEmbedID: "!1m18!1m12!1m3!1d46328.047918201235!2d-89.8216766254865!3d43.47097227571847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88076a66263a3ce9%3A0xbd127d83de21946f!2sBaraboo%2C%20WI%2053913!5e0!3m2!1sen!2sus!4v1744767856157!5m2!1sen!2sus"
+cta:
+  heading: Need HVAC Service in Baraboo?
+  body: Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "baraboo" >}}.
 ---
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Baraboo, WI
@@ -29,9 +34,9 @@ Whether you live near Devil’s Lake, in town or outside the city limits, we’r
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Baraboo?</h2>
-
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 356-4550.
-
+<p class= "site-cta__middle">
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "baraboo" >}}.
+</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
@@ -98,5 +103,3 @@ surrounding communities since 1988.
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46328.047918201235!2d-89.8216766254865!3d43.47097227571847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88076a66263a3ce9%3A0xbd127d83de21946f!2sBaraboo%2C%20WI%2053913!5e0!3m2!1sen!2sus!4v1744767856157!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
