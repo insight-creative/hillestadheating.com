@@ -1,0 +1,41 @@
+// mobile-first defaults:
+.map-cta-container {
+  display: grid;
+  grid-template-columns: 1fr;     // one column
+  row-gap: $ic-200;               // optional vertical gap
+}
+
+.map-cta__map {
+  grid-column: 1;                 // full-width in that single column
+  /* any other map-specific mobile styles */
+}
+
+.map-cta__box {
+  grid-column: 1;                 // below the map
+  margin-top: $ic-200;            // space above
+}
+
+// tablet and up: re-enable your 12-col layout
+@include breakpoint(md) {
+  .map-cta-container {
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+    row-gap: 0;                   // remove mobile gap if you like
+  }
+
+  .map-cta__map,
+  .map-cta__box {
+    grid-row: 1 / 10;             // both sit in row 1 (spanning rows 1–9)
+  }
+
+  .map-cta__map {
+    grid-column: 1 / -1;          // all 12 cols
+    z-index: -2;
+  }
+
+  .map-cta__box {
+    grid-column: 10 / -1;         // cols 10–12
+    align-self: center;
+    margin-top: 0;                // cancel the mobile top margin
+  }
+}

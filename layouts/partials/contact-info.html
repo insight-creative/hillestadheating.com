@@ -10,6 +10,8 @@
     <address>
       {{ .Site.Data.site_settings.address.street }}
       <br>
+      {{ .Site.Data.site_settings.address.po_box }}
+      <br>
       {{ .Site.Data.site_settings.address.city }}, {{ .Site.Data.site_settings.address.state }} {{ .Site.Data.site_settings.address.zip }}
     </address>
     {{ end }}

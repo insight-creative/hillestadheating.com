@@ -1,0 +1,9 @@
+{{- /* .Get 0 is the phone key, e.g. "widells" */ -}}
+{{ $key := .Get 0 }}
+{{ $phones := site.Data.site_settings.phones }}
+{{ with index $phones $key }}
+  <a href="tel:{{ .tel }}">{{ .display }}</a>
+{{ else }}
+  <!-- optional fallback if key not found -->
+  <span class="phone-missing">[phone not found]</span>
+{{ end }}

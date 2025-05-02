@@ -1,5 +1,6 @@
 ---
 title: Madison, WI
+layout: servicearea
 menu:
   main:
     parent: "Service Area"
@@ -19,8 +20,11 @@ hero:
     button_url: /contact/ 
     button_text:  Request Service
     open_in_new_tab: false
+mapEmbedID: "!1m18!1m12!1m3!1d93245.52328393482!2d-89.4091475!3d43.0851225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8806536d3a2019ff%3A0x4e0cfcb5ba484198!2sMadison%2C%20WI!5e0!3m2!1sen!2sus!4v1745896853045!5m2!1sen!2sus"
+cta:
+  heading: Need HVAC Service in Madison?
+  body: Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.
 ---
-
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Madison, WI
 
 When your home or business in Madison needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Dane County—from the Capitol Square to Lake Monona—and into Middleton, Fitchburg, and Monona. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Madison.
@@ -29,9 +33,9 @@ From chilly winter furnace repair to high‑efficiency air conditioner installs 
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Madison?</h2>
-
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at (608) 231-3888.
-
+<p class= "site-cta__middle">
+Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.
+</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
 
 </div>
@@ -98,5 +102,3 @@ surrounding communities since 1988.
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d93245.52328393469!2d-89.4091475!3d43.0851225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8806536d3a2019ff%3A0x4e0cfcb5ba484198!2sMadison%2C%20WI!5e0!3m2!1sen!2sus!4v1745199111871!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

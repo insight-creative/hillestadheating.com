@@ -8,6 +8,7 @@ address:
   city: Lodi
   state: WI
   street: 919 Development Drive
+  po_box: PO Box 273
   zip: 53555
 google_maps_url: https://maps.app.goo.gl/eKKtJQhAynYMzWWp7
 google_maps_iframe: <iframe title="Google Maps location of Hillestad Heating and Cooling Systems" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5804.989516008909!2d-89.54824992272242!3d43.324834973605064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8807055485ba2153%3A0x855c658bbfbae1a9!2sHillestad%20Heating%20%26%20Cooling%20Systems!5e0!3m2!1sen!2sus!4v1744768146076!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -29,3 +30,25 @@ social_media:
     link: 
   - title: Yelp
     link: 
+
+phones:
+  lodi:
+    display: "(608) 592-4035"
+    tel: "+16085924035"
+  baraboo:
+    display: "(608) 356-4550"
+    tel: "+16083564550"
+  saukcity:
+    display: "(608) 643-8788"
+    tel: "+16086438788"
+  madison:
+    display: "(608) 231-3888"
+    tel: "+16082313888"
+  widells:
+    display: "(608) 253-4101"
+    tel: "+16082534101"
+  portage:
+    display: "(608) 742-7771"
+    tel: "+16087427771"
+
+  

@@ -1,0 +1,12 @@
+{{ define "main" }}
+    {{ partial "hero" .  }}
+    {{ if .Content  }}
+    <div class="block">
+        <div class="wrapper flow">
+            {{ .Content  }}
+            {{ partial "map-with-cta.html" . }}
+        </div>
+    </div>
+    {{ end }}
+    {{ partial "cta" . }}
+{{ end }}
