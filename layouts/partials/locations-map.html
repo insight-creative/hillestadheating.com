@@ -1,0 +1,33 @@
+<section class="locations-map block">
+    <picture class="locations-map__background-image">
+        <img src="https://res.cloudinary.com/hillestad/image/upload/v1745622595/downtown-madison_t0hqgn.jpg" alt="">
+    </picture>
+    <div class="locations-map__overlay"></div>
+    <div class="locations-map__content wrapper-lg grid gap-lg font-color-white">
+        <div class="grid-12 grid-5-md text-color-white flow">
+            {{ if eq .Title "Commercial" }}
+                <h2>Commercial HVAC and Refrigeration Services Near You</h2>
+            {{ else if eq .Title "Heating" }}
+                <h2>Heating Services Near You</h2>
+            {{ else }}
+                <h2>{{ .Title }} Near You</h2>
+            {{ end }}
+            <p class="font-size-sm">At Hillestad Heating and Cooling, we’ve proudly served Lodi-area homeowners and businesses for over 30 years. From A/C repair in the peak of summer to furnace maintenance during Wisconsin’s coldest months, we bring comfort, quality and care to every job. Whether you’re in Lodi or in one of the many neighboring communities, our team is ready to help.</p>
+            <a class="btn btn--white" href="/contact/">Request Service</a>
+        </div>
+        <div class="grid-12 grid-7-md">
+            <picture>
+                <img src="https://res.cloudinary.com/hillestad/image/upload/v1746172377/hillestad-service-area-3_g6lmow.jpg" alt="">
+            </picture>
+            <div>
+                <ul class="locations-map__links">
+                    {{ range where site.RegularPages "Section" "service-area" }}
+                    <li class="locations-map__links-item">
+                        <a class="locations-map__link" href="{{ .Permalink }}">{{ .Title }}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>

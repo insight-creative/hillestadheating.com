@@ -24,6 +24,12 @@ module.exports = {
         'page-id-a5de17d55a9b80cdac731fa24e6c61ab',
         'iframe',
         'mt-6',
+        'bg-primary-2',
+        'parent-page-air-conditioning',
+        'parent-page-heating',
+        'parent-page-service-area',
+        'page-indoor-air-quality',
+        'page-commercial',
       ]
     })
   ]

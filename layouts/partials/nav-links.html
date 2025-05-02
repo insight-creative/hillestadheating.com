@@ -1,0 +1,11 @@
+<div class="nav-links bg-gray">
+    <div class="wrapper-lg">
+      <ul class="nav-links__list flex flex-justify-center flex-wrap gap-sm max-width-none no-padding no-margin">
+          {{ range .Site.Menus.main }}
+              <li class="nav-links__list-item header__nav-list-link">
+                  <a class="nav-links__link" href="{{ .URL }}">{{ .Name }}</a>
+              </li>
+          {{- end -}}
+      </ul>
+    </div>
+</div>

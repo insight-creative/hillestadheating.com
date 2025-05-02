@@ -34,16 +34,15 @@ Whether you live near Devil’s Lake, in town or outside the city limits, we’r
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Baraboo?</h2>
-<p class= "site-cta__middle">
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "baraboo" >}}.
-</p>
+  <p class="site-cta__middle">
+  Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "baraboo" >}}.
+  </p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Baraboo
 
-From emergency repairs to energy-efficient upgrades, we offer a full range of heating, cooling, and air quality services for Baraboo homes and businesses. 
+From emergency repairs to energy-efficient upgrades, we offer a full range of heating, cooling and air quality services for Baraboo homes and businesses. 
 
 ### Heating Services
 

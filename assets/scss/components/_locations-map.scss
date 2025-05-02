@@ -1,0 +1,56 @@
+.locations-map,
+.locations-map__content {
+    position: relative;
+}
+
+.locations-map__background-image,
+.locations-map__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden;
+}
+
+.locations-map__background-image img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    inline-size: 100%;
+    block-size: 100%;
+    object-fit: cover;
+}
+
+.locations-map__overlay {
+    background-color: rgba($primary-color, .9);
+}
+
+.locations-map__content {
+    align-items: center;
+}
+
+.locations-map__links {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: $ic-100;
+}
+
+.locations-map__links-item {
+    list-style-type: none;
+    margin: 0;
+}
+
+.locations-map__link {
+    color: $white;
+    font-size: 14px;
+    font-size: clamp(14px, 1vw, $ic-100);
+    font-weight: 700;
+    transition: .3s ease-in-out;
+
+    &:hover,
+    &:focus {
+        color: rgba($white, .7);
+    }
+}

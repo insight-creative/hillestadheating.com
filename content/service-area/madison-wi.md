@@ -27,22 +27,19 @@ cta:
 ---
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Madison, WI
 
-When your home or business in Madison needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Dane County—from the Capitol Square to Lake Monona—and into Middleton, Fitchburg, and Monona. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Madison.
-
-From chilly winter furnace repair to high‑efficiency air conditioner installs on those hot summer days, Hillestad Heating and Cooling is your local HVAC partner, dedicated to keeping our community comfortable year‑round.
+Looking for trustworthy HVAC service in Madison? Hillestad Heating and Cooling brings over 30 years of experience to homeowners and businesses across the greater Madison area. From furnace repairs in the winter to air conditioning upgrades in the summer, our team delivers high-quality and personalized service.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Madison?</h2>
-<p class= "site-cta__middle">
+  <p class="site-cta__middle">
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.
-</p>
+  </p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Madsion
 
-No matter if you live where State Street meets Capitol Square or call the chain of lakes home, we've got your comfort covered. Our services include:
+Whether you’re near the Capitol, the beltline or out in the suburbs, Hillestad Heating and Cooling has the tools, techs and training to service all of your HVAC needs. Our services include:
 
 ### Heating Services
 

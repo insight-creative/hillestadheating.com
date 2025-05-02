@@ -33,16 +33,15 @@ Whether it’s the chilly mornings by the Wisconsin River or the hot summer days
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Wisconsin Dells?</h2>
-<p class= "site-cta__middle">
+  <p class= "site-cta__middle">
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "widells" >}}.
-</p>
+  </p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Wisconsin Dells
 
-No matter if you need a furnace tune‑up to shake off a frosty dawn or an energy efficient air conditioner installed before the next heatwave, Hillestad Heating and Cooling is your local HVAC partner—dedicated to keeping the Wisconsin Dells community comfortable every day of the year. Our services include:
+Whether you need a furnace tune‑up or an energy efficient air conditioner installed, Hillestad Heating and Cooling is your local HVAC partner. We're dedicated to keeping the Wisconsin Dells community comfortable every day of the year. Our services include:
 
 ### Heating Services
 
@@ -102,4 +101,3 @@ surrounding communities since 1988.
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
-

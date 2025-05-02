@@ -3,6 +3,7 @@ title: Air Conditioning
 menu:
   main:
     weight: 2
+layout: services
 seo:
   page_title: Air Conditioning Services in Lodi, WI
   meta_description: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
@@ -29,11 +30,8 @@ Whether you need a quick fix, seasonal tune-up or a full system replacement, our
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Air Conditioning Service Today!</h2>
-
-Don’t sweat it out this summer. Whether your A/C needs a quick repair or a complete refresh, Hillestad Heating and Cooling is just a call away. Schedule your appointment online, or give us a call at (608) 231-3888.
-
+  <p class="site-cta__middle">Don’t sweat it out this summer. Whether your A/C needs a quick repair or a complete refresh, Hillestad Heating and Cooling is just a call away. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## Our A/C Services
@@ -65,23 +63,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 *	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 *	**Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-## Air Conditioning Services Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

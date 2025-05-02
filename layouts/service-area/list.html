@@ -1,0 +1,16 @@
+{{ define "main" }}
+    {{ partial "hero" .  }}
+    <div class="block">
+        <div class="wrapper flow">
+            {{ .Content  }}
+        </div>
+    </div>
+    <ul class="locations grid-columns-3 gap-sm wrapper no-padding">
+        {{ range where site.RegularPages "Section" "service-area" }}
+        <li class="locations__item">
+            <a class="locations__link" href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+    {{ partial "cta" . }}
+{{ end }}

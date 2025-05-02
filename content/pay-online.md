@@ -41,7 +41,7 @@ We use the information you provide about yourself when making an on-line payment
 
 ### Our Commitment to Data Security
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+To prevent unauthorized access, maintain data accuracy and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
 ### Our Commitment to Children’s Privacy
 

@@ -3,13 +3,14 @@ title: Commercial
 menu:
   main:
     weight: 4
+layout: services
 seo:
-  page_title: Commercial HVAC & Refrigeration Services in Lodi, WI
+  page_title: Commercial HVAC and Refrigeration Services in Lodi, WI
   meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
-  heading: Commercial HVAC & Refrigeration Services in Lodi, WI
+  heading: Commercial HVAC and Refrigeration Services in Lodi, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
     image_url: /uploads/bryant-technician-demonstrating-filter-replacement
@@ -28,18 +29,14 @@ Running a business is tough enough, your heating, cooling and refrigeration syst
 From offices and retail spaces to restaurants and light industrial buildings, our licensed technicians deliver responsive, knowledgeable service that Wisconsin businesses have trusted since 1988.
 
 <div class="breakout bg-black flow">
-
   <h2 class="no-margin">Let’s Keep Your Business Running Smoothly</h2>
-
-  Looking for a trusted HVAC and refrigeration partner? Hillestad Heating and Cooling is here to help with professional commercial service that’s fast, fair and dependable. Call us at (608) 231-3888.
-
+  <p class="site-cta__middle">Looking for a trusted HVAC and refrigeration partner? Hillestad Heating and Cooling is here to help with professional commercial service that’s fast, fair and dependable. Call us at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## Commercial Services We Offer
 
-We specialize in a full range of commercial heating, cooling, and refrigeration solutions. Whether you're installing a new system or need emergency service on existing equipment, we’re here to help.
+We specialize in a full range of commercial heating, cooling and refrigeration solutions. Whether you're installing a new system or need emergency service on existing equipment, we’re here to help.
 
 ### Commercial Heating
 
@@ -107,13 +104,13 @@ Servicing: Ice machines, walk-in coolers, basic refrigeration, supermarkets, com
 
 Hillestad is proud to install and maintain Aprilaire products, engineered to give you complete control over the air you breathe.
 
-The air inside your home affects more than just comfort, it impacts your health, your budget, and your everyday well-being. That’s why we offer industry-leading solutions from Aprilaire, a trusted name in Total Comfort for over 50 years.
+The air inside your home affects more than just comfort, it impacts your health, your budget and your everyday well-being. That’s why we offer industry-leading solutions from Aprilaire, a trusted name in Total Comfort for over 50 years.
 
 With Aprilaire, you can go beyond just adjusting the thermostat. These advanced systems help balance all key aspects of indoor air quality:
 
 *	**Humidity:** Prevent mold and dryness with whole-home humidifiers and dehumidifiers
 
-*	**Air Purity:** Remove allergens, dust, and pollutants with HEPA filters and whole-home air purifiers
+*	**Air Purity:** Remove allergens, dust and pollutants with HEPA filters and whole-home air purifiers
 
 *	**Air Freshness:** Enjoy clean, fresh air with mechanical ventilation systems (ERV/HRV)
 
@@ -140,23 +137,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 *	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 *	**Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-## Commercial HVAC and Refrigeration Services Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

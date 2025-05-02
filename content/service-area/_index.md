@@ -26,27 +26,3 @@ hero:
 At Hillestad Heating and Cooling, we’ve proudly served Lodi-area homeowners and businesses for over 30 years. From A/C repair in the peak of summer to furnace maintenance during Wisconsin’s coldest months, we bring comfort, quality and care to every job.
 
 Whether you're in Lodi or in one of the many neighboring communities, our team is ready to help. 
-
-<div class="breakout bg-black flow">
-  <h2 class="no-margin">HVAC Services Near You</h2>
-  We’re proud to serve communities across south-central Wisconsin, including: 
-
-  * Lodi 
-
-  * Sauk City 
-
-  * Portage
-
-  * Baraboo
-  
-  * Wisconsin Dells
-  
-  * Madison
-  
-  * And surrounding areas!
-
-  Not sure if you're in our service area? Give us a call, we are happy to help.
-
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-
-</div>

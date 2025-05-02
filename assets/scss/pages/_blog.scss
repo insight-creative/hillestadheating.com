@@ -1,0 +1,69 @@
+@include breakpoint (md) {
+  .parent-page-air-conditioning,
+  .parent-page-heating,
+  .parent-page-service-area,
+  .page-indoor-air-quality,
+  .page-commercial,
+  .parent-page-air-conditioning .site-wrap,
+  .parent-page-service-area .site-wrap,
+  .page-indoor-air-quality .site-wrap,
+  .page-commercial .site-wrap,
+  .parent-page-heating .site-wrap {
+    overflow-x: initial;
+  }
+}
+
+.post__body {
+  flex-basis: 0;
+  flex-grow: 999;
+  min-inline-size: 60%;
+  max-width: 800px;
+  margin-inline: auto;
+}
+
+.post__sidebar {
+  flex-basis: 20rem; 
+  flex-grow: 1;
+  max-width: 500px;
+  margin-inline-start: auto;
+
+  @include breakpoint (md) {
+    margin-top: -200px;
+    position: relative;
+    z-index: 8;
+  }
+}
+
+.post__sidebar-inner {
+
+  @include breakpoint(md) {
+    position: sticky;
+    inset-block-start: 150px;
+    margin-top:0;
+  }
+}
+
+.post {
+  picture {
+    display: block;
+  }
+}
+
+.post__body h1,
+.post__body h2,
+.post__body h3,
+.post__body h4,
+.post__body h5,
+.post__body h6 {
+  max-inline-size: none;
+  text-wrap: wrap;
+}
+
+.post__body p + h2,
+.post__body p + h3,
+.post__body ul + h2,
+.post__body ul + h3,
+.post__body ol + h2,
+.post__body ol + h3 {
+  margin-top:$ic-600;
+}

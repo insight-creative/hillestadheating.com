@@ -1,12 +1,17 @@
 {{ define "main" }}
     {{ partial "hero" .  }}
-    {{ if .Content  }}
     <div class="block">
-        <div class="wrapper flow">
-            {{ .Content  }}
-            {{ partial "map-with-cta.html" . }}
+        <div class="post flex flex-wrap gap-md wrapper-lg">
+            <div class="post__body flow">
+                {{ .Content  }}
+            </div>
+            <div class="post__sidebar">
+                <div class="post__sidebar-inner">
+                    {{ partial "forms/request-service" . }}
+                </div>
+            </div>
         </div>
     </div>
-    {{ end }}
+    {{ partial "map-with-cta.html" . }}
     {{ partial "cta" . }}
 {{ end }}

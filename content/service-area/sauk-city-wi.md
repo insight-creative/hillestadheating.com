@@ -28,17 +28,14 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Sauk City, WI
 
-When the seasons shift along the banks of the Wisconsin River or the summer sun beats down on Sauk City, Hillestad Heating and Cooling makes sure your home or business stays perfectly comfortable. Family‑owned since 1988, we’ve earned our neighbors’ trust from the historic brick storefronts on Water Street to the cozy homes lining Fieldstone Park and the pathways of the Sauk City Riverwalk. Our friendly, certified technicians arrive quickly and treat every job with the same professional care.
-
-Whether it’s breathing new life into an aging furnace on a frosty morning or installing a whisper‑quiet, energy‑smart air conditioner for those sweltering afternoons, Hillestad Heating and Cooling is your local HVAC expert—committed to keeping the Sauk Prairie community comfortable every single day of the year.
+Hillestad Heating and Cooling proudly serves Sauk City with high-quality HVAC service backed by decades of local experience. From heating system repairs in the dead of winter to air quality upgrades in the summer, our licensed technicians are ready to help. We work hard to keep your home or business running at peak comfort and efficiency.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Sauk City?</h2>
-<p class= "site-cta__middle">
+  <p class= "site-cta__middle">
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "saukcity" >}}.
-</p>
+  </p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Sauk City

@@ -1,9 +1,15 @@
 {{ define "main" }}
     {{ partial "hero" .  }}
-    {{ partial "emergency-cta" .  }}
     <div class="block">
-        <div class="wrapper flow">
-            {{ .Content  }}
+        <div class="post flex flex-wrap gap-md wrapper-lg">
+            <div class="post__body flow">
+                {{ .Content  }}
+            </div>
+            <div class="post__sidebar">
+                <div class="post__sidebar-inner">
+                    {{ partial "forms/request-service" . }}
+                </div>
+            </div>
         </div>
     </div>
     {{ if .Params.cooling_checklist }}
@@ -44,5 +50,7 @@
             </section>
         {{ end }}
     {{ end }}
+    {{ partial "nav-links" . }}
+    {{ partial "locations-map" . }}
     {{ partial "cta" . }}
 {{ end }}

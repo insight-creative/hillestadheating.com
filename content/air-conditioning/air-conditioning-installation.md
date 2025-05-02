@@ -3,6 +3,7 @@ title: Air Conditioning Installation
 menu:
   main:
     parent: "Air Conditioning"
+layout: services
 seo:
   page_title: Air Conditioning Installation in Lodi, WI
   meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
@@ -29,18 +30,15 @@ From helping you choose the right unit for your home to expert installation and 
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Air Conditioning Installation Today!</h2>
-
-  If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at (608) 231-3888.
-
+  <p class="site-cta__middle">If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## When to Replace Your A/C System
 
 Not sure if it’s time to replace your air conditioner? It may be time for a new system if:
 
-*	Your current unit is 10–15+ years old
+*	Your current unit is 10 – 15 years old
 
 *	You’ve had frequent repairs in recent years
 
@@ -83,23 +81,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 *	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 *	**Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-## Air Conditioning Installation Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

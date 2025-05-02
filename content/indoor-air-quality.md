@@ -3,6 +3,7 @@ title: Indoor Air Quality
 menu:
   main:
     weight: 3
+layout: services
 seo:
   page_title:  Indoor Air Quality Solutions in Lodi, WI
   meta_description: Improve your air quality with Aprilaire. Hillestad delivers expert installation of whole-home systems to reduce allergens, mold and stale air.
@@ -23,17 +24,14 @@ hero:
 
 ## Breathe Easier With Better Indoor Air Quality
 
-You can’t always see air quality problems, but you can feel them. Whether it’s allergies, excess dust, or persistent odors, poor indoor air quality (IAQ) affects your comfort, health, and even your HVAC system’s performance.
+You can’t always see air quality problems, but you can feel them. Whether it’s allergies, excess dust or persistent odors, poor indoor air quality (IAQ) affects your comfort, health and even your HVAC system’s performance.
 
 At Hillestad Heating and Cooling, we help you breathe easier with expert IAQ solutions that make your home safer, fresher and healthier year-round.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Healthier Air Starts Here</h2>
-
-Whether you want to relieve allergies, reduce illness or simply make your home feel fresher, we’re here to help. Our team will assess your home, explain your options and install trusted solutions that last. Call us at (608) 231-3888.
-
+  <p class="site-cta__middle">Whether you want to relieve allergies, reduce illness or simply make your home feel fresher, we’re here to help. Our team will assess your home, explain your options and install trusted solutions that last. Call us at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## Why Indoor Air Quality Matters
@@ -58,7 +56,7 @@ These pollutants don’t just irritate allergies, they can worsen asthma, lower 
 
 Hillestad is proud to install and maintain Aprilaire products, engineered to give you complete control over the air you breathe.
 
-The air inside your home affects more than just comfort, it impacts your health, your budget, and your everyday well-being. That’s why we offer industry-leading solutions from Aprilaire, a trusted name in Total Comfort for over 50 years.
+The air inside your home affects more than just comfort, it impacts your health, your budget and your everyday well-being. That’s why we offer industry-leading solutions from Aprilaire, a trusted name in Total Comfort for over 50 years.
 
 With Aprilaire, you can go beyond just adjusting the thermostat. These advanced systems help balance all key aspects of indoor air quality:
 
@@ -87,23 +85,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
-
-## Indoor Air Quality Solutions Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-* Lodi
-
-* Sauk City
-
-* Portage
-
-* Baraboo
-
-* Wisconsin Dells
-
-* Madison
-
-* And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

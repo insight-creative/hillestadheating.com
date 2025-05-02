@@ -34,11 +34,10 @@ From chilly winter furnace repairs to summer A/C installations, we’re your hom
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Lodi?</h2>
-<p class= "site-cta__middle">
+  <p class="site-cta__middle">
 Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "lodi" >}}.
-</p>
+  </p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Lodi
@@ -102,4 +101,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises.
-

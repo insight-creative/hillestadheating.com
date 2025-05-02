@@ -3,6 +3,7 @@ title: Furnace Installation
 menu:
   main:
     parent: "Heating"
+layout: services
 seo:
   page_title: Furnace Installation in Lodi, WI
   meta_description: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating provides honest recommendations and professional service since 1988.
@@ -27,12 +28,9 @@ Is your old furnace is struggling to keep up? Is it costing you more in repairs 
 
 We’ve helped hundreds of homeowners in Lodi and surrounding communities upgrade to modern, high-efficiency heating systems. Whether you’re replacing an aging furnace or starting from scratch in a new build, our licensed technicians will help you choose the right system for your home and install it with precision.
 
-
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Ready for a New Furnace Installation?</h2>
-
-  We’re here to help you find a furnace that fits your home, your comfort needs and your budget. Call (608) 231-3888 or schedule your estimate online today.
-
+  <p class="site-cta__middle">We’re here to help you find a furnace that fits your home, your comfort needs and your budget. Call {{< phone "madison" >}} or schedule your estimate online today.</p>
   <a class="btn btn--primary" href="/contact/">Schedule Installation</a>
 </div>
 
@@ -66,13 +64,13 @@ We take pride in making every installation smooth and straightforward:
 
 4. Professional installation: Done by licensed techs who respect your space.
 
-5. Final testing & walk-through: We’ll make sure everything runs perfectly—and show you how it works.
+5. Final testing and walk-through: We’ll make sure everything runs perfectly—and show you how it works.
 
 We install all major brands and offer high-efficiency options to help you save energy and money for years to come.
 
 ## Why Lodi Homeowners Choose Hillestad
 
-For more than 30 years, Hillestad Heating and Cooling has been helping families throughout Lodi stay warm with service that’s honest, dependable, and locally rooted.
+For more than 30 years, Hillestad Heating and Cooling has been helping families throughout Lodi stay warm with service that’s honest, dependable and locally rooted.
 
 Here’s why our customers continue to trust us with their comfort:
 
@@ -85,23 +83,3 @@ Here’s why our customers continue to trust us with their comfort:
 * **High-Efficiency Focus**: Save energy without sacrificing comfort
 
 * **Clear Communication**: From estimate to install, we keep it simple
-
-## Furnace Installation Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

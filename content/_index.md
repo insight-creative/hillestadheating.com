@@ -2,7 +2,7 @@
 title: Home
 seo:
   page_title: HVAC Company in Lodi, WI
-  meta_description: Hillestad Heating and Cooling Systems has over 45 years of experience providing HVAC services in Fitchburg, WI. Our trained technicians are here to help you. Call us today!
+  meta_description: Hillestad Heating and Cooling Systems has over 30 years of experience providing HVAC services in Lodi, WI. Our trained technicians are here to help you. Call us today!
   featured_image: /uploads/richter-social-preview.jpg
   featured_image_alt:
 hero: 

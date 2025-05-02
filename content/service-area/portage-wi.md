@@ -28,17 +28,14 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Portage, WI
 
-When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County—from downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
+When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County, from historic downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
 
-From chilly winter furnace repair to high‑efficiency air conditioner installs on those hot summer days, Hillestad Heating and Cooling is your local HVAC partner, dedicated to keeping our community comfortable year‑round.
+From chilly winter furnace repair to high-efficiency air conditioner installs on hot summer days, Hillestad Heating and Cooling has you covered. We’re your local HVAC partner, dedicated to keeping our community comfortable year-round.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Portage?</h2>
-<p class= "site-cta__middle">
-Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "portage" >}}.
-</p>
+  <p class= "site-cta__middle">Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "portage" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## HVAC Services We Offer in Portage

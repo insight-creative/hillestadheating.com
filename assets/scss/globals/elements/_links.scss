@@ -29,9 +29,9 @@ a {
 }
 
 a:not([class]) {
-  color: $primary-color;
+  color: $secondary-color;
   text-decoration: none;
-  background-image: linear-gradient($black, $black),linear-gradient(270deg,$secondary-color 0%,$secondary-color 100%);
+  background-image: linear-gradient($secondary-color, $secondary-color),linear-gradient(270deg,$primary-color 0%,$primary-color 100%);
   background-size: 100% 2px,0 2px;
   background-position: 100% 100%,0 100%;
   background-repeat: no-repeat;

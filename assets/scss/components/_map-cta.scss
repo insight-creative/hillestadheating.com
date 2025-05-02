@@ -13,6 +13,11 @@
 .map-cta__box {
   grid-column: 1;                 // below the map
   margin-top: $ic-200;            // space above
+  margin-inline: -16px;
+
+  @include breakpoint(md) {
+    margin-inline: -100px;
+  }
 }
 
 // tablet and up: re-enable your 12-col layout
@@ -29,8 +34,7 @@
   }
 
   .map-cta__map {
-    grid-column: 1 / -1;          // all 12 cols
-    z-index: -2;
+    grid-column: 1 / -1;          // all 12 col
   }
 
   .map-cta__box {

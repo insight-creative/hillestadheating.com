@@ -1,22 +1,11 @@
 .breakout {
     position: relative;
-    margin-inline: -16px;
+    // margin-inline: -16px;
     padding: $ic-400;
-
-    &::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: -1;
-        block-size: 100%;
-        inline-size: 100%;
-        background-color: $secondary-color;
-        transform: translate(16px, 16px);
-    }
+    box-shadow: 16px 16px $secondary-color;
 
     @include breakpoint(lg) {
-        margin-inline: -100px;
+        // margin-inline: -100px;
 
         ul {
             columns: 2;

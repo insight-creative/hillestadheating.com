@@ -3,6 +3,7 @@ title: Heating
 menu:
   main:
     weight: 1
+layout: services
 seo:
   page_title: Professional Heating Services in Lodi, WI
   meta_description:  Get professional furnace and heating repair, replacement and new system installations in Lodi, WI.
@@ -29,7 +30,7 @@ We proudly serve homeowners and small businesses from Stoughton to Wisconsin Del
 
 ## Our Heating Services
 
-Whether your furnace is acting up, your boiler needs an upgrade, or you’re just due for seasonal maintenance, Hillestad
+Whether your furnace is acting up, your boiler needs an upgrade or you’re just due for seasonal maintenance, Hillestad
 has you covered.
 
 We specialize in:
@@ -40,18 +41,15 @@ We specialize in:
 
 * **Furnace Maintenance**: Tune-ups that save energy and prevent breakdowns.
 
-* **Boiler Services**: Repair, replacement, and maintenance of modern and older boiler systems.
+* **Boiler Services**: Repair, replacement and maintenance of modern and older boiler systems.
 
 
-We work with all major brands and systems—delivering honest recommendations, transparent pricing, and dependable work with every job.
+We work with all major brands and systems—delivering honest recommendations, transparent pricing and dependable work with every job.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Heating Service Today!</h2>
-
-Ready to get started with your service or repairs? Schedule your appointment online, or give us a call at (608) 231-3888.
-
+  <p class="site-cta__middle">Ready to get started with your service or repairs? Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## Why Lodi Homeowners Trust Hillestad
@@ -69,23 +67,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 * **Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 * **Clear and Honest Quotes:** No pushy upsell. No surprises. 
-
-## Areas We Serve
-
-We’re proud to serve communities across south-central Wisconsin, including: 
-
-  * Lodi 
-
-  * Sauk City 
-
-  * Portage
-
-  * Baraboo
-  
-  * Wisconsin Dells
-  
-  * Madison
-  
-  * And surrounding areas!
-
-  Not sure if you're in our service area? Give us a call, we are happy to help.

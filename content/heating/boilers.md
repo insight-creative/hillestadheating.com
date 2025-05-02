@@ -3,6 +3,7 @@ title: Boilers
 menu:
   main:
     parent: "Heating"
+layout: services
 seo:
   page_title:  Boiler Services in Lodi, WI
   meta_description:  Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
@@ -27,11 +28,8 @@ Whether your home relies on radiant heat, baseboard heating or an older steam bo
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Boiler Repair Service Today!</h2>
-
-Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at (608) 231-3888
-
+  <p class="site-cta__middle">Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## Boiler Services We Offer
@@ -40,13 +38,13 @@ Boiler systems work differently than forced-air furnaces, and they require a tec
 
 * **Boiler Repair:** Fast, accurate diagnostics and repairs to restore consistent heat.
 
-*	**Boiler Maintenance:** Seasonal service to prevent leaks, corrosion, and inefficiency.
+*	**Boiler Maintenance:** Seasonal service to prevent leaks, corrosion and inefficiency.
 
 *	**Boiler Replacement and Installation:** Modern high-efficiency systems are installed with precision.
 
 *	**System Conversions:** Upgrading from steam or older systems? We’ll help you choose the right solution.
 
-Whether your system runs on natural gas, propane, or oil, we’ve got the tools and training to keep it performing at its best.
+Whether your system runs on natural gas, propane or oil, we’ve got the tools and training to keep it performing at its best.
 
 ## Signs Your Boiler Needs Service
 
@@ -81,23 +79,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 *	Energy-Efficient Solutions: We’ll help you save money and stay warm.
 
 *	Clear and Honest Quotes: No pushy upsell. No surprises.
-
-## Boiler Services Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.

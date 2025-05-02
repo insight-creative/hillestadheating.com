@@ -3,6 +3,7 @@ title: Ductless Systems
 menu:
   main:
     parent: "Air Conditioning"
+layout: services
 seo:
   page_title: Ductless Mini-Split Systems in Lodi, WI
   meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
@@ -29,11 +30,8 @@ Whether you're upgrading a single room, finishing a basement or replacing old el
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Get Ductless Comfort That Fits Your Home</h2>
-
-  Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at (608) 231-3888.
-
+  <p class="site-cta__middle">Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at {{< phone "madison" >}}.</p>
   <a class="btn btn--primary" href="/contact/">Request Service</a>
-
 </div>
 
 ## What Is a Ductless Mini-Split?
@@ -79,22 +77,3 @@ Here’s why customers across southern Wisconsin continue to choose Hillestad He
 *	**Energy-Efficient Solutions:** We’ll help you save money and stay warm.
 
 *	**Clear and Honest Quotes:** No pushy upsell. No surprises.
-## Ductless System Installation Near You
-
-We’re proud to serve communities across south-central Wisconsin, including:
-
-*	Lodi
-
-*	Sauk City
-
-*	Portage
-
-*	Baraboo
-
-*	Wisconsin Dells
-
-*	Madison
-
-*	And surrounding areas!
-
-Not sure if you’re in our service area? Give us a call, we’re happy to help.
