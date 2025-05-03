@@ -36,7 +36,7 @@ Whether your A/C is blowing warm air, making strange noises or has stopped worki
 
 ## Common Signs You Need A/C Repair
 
-Don’t sweat through the summer—if your system is showing any of these warning signs, it’s time to call Hillestad:
+Don’t sweat through the summer. If your system is showing any of these warning signs, it’s time to call Hillestad:
 
 *	Warm or weak airflow from your vents
 

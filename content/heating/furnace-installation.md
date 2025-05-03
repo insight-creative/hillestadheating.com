@@ -50,21 +50,21 @@ Not sure if it’s time for a new furnace? Here are some signs your system might
 
 * Yellow pilot light or visible rust
 
-If you're experiencing any of these issues, we’ll provide a pressure-free assessment and walk you through your options.
+If you're experiencing any of these issues, we’ll provide a no pressure assessment and walk you through your options.
 
 ## Our Furnace Installation Process
 
 We take pride in making every installation smooth and straightforward:
 
-1. In-home evaluation: We assess your current setup and heating needs.
+1. **In-home evaluation**: We assess your current setup and heating needs.
 
-2. System recommendations: We help you choose the right unit—no brand bias, no upsell.
+2. **System recommendations**: We help you choose the right unit for your home.
 
-3. Upfront quote: Transparent pricing with no hidden fees.
+3. **Upfront quote**: Transparent pricing with no hidden fees.
 
-4. Professional installation: Done by licensed techs who respect your space.
+4. **Professional installation**: Done by licensed techs who respect your space.
 
-5. Final testing and walk-through: We’ll make sure everything runs perfectly—and show you how it works.
+5. **Final testing and walk-through**: We’ll make sure everything runs perfectly, and show you how to use it.
 
 We install all major brands and offer high-efficiency options to help you save energy and money for years to come.
 
@@ -78,7 +78,7 @@ Here’s why our customers continue to trust us with their comfort:
 
 * **Skilled, Licensed Technicians**: Experienced and certified in furnace replacement
 
-* **No-Pressure Sales**: We recommend what’s best—not what’s most expensive
+* **No-Pressure Sales**: We recommend what’s best, not what’s most expensive
 
 * **High-Efficiency Focus**: Save energy without sacrificing comfort
 

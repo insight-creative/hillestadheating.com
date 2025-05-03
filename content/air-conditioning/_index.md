@@ -38,15 +38,15 @@ Whether you need a quick fix, seasonal tune-up or a full system replacement, our
 
 From older units to modern energy-efficient systems, Hillestad handles it all with care and precision. We offer:
 
-*	**A/C Repair:** Fast, effective fixes for cooling problems of all kinds
+*	**A/C Repair:** Fast, effective fixes for cooling problems of all kinds.
 
-*	**A/C Maintenance:** Seasonal tune-ups to improve performance and prevent breakdowns
+*	**A/C Maintenance:** Seasonal tune-ups to improve performance and prevent breakdowns.
 
-*	**A/C Installation and Replacement:** Expertly installed systems tailored to your home’s needs
+*	**A/C Installation and Replacement:** Expertly installed systems tailored to your home’s needs.
 
-*	**Ductless Mini-Splits:** Efficient cooling options for homes without ductwork or for zoned comfort
+*	**Ductless Mini-Splits:** Efficient cooling options for homes without ductwork or for zoned comfort.
 
-No matter what kind of system you have, we’ll help you stay comfortable without wasting energy—or your money.
+No matter what kind of system you have, we’ll help you stay comfortable without wasting energy, or your money.
 
 ## Why Lodi Homeowners Trust Hillestad
 

@@ -6,12 +6,12 @@ menu:
     parent: "Service Area"
 seo:
   page_title: HVAC Services in Wisconsin Dells, WI
-  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  meta_description: Looking for reliable HVAC services in Wisconsin Dells? As a local, family-rooted company, we’ve been serving Wisconsin Dells homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: HVAC Services in Wisconsin Dells, WI
-  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  body: Looking for reliable HVAC services in Wisconsin Dells? As a local, family-rooted company, we’ve been serving Wisconsin Dells homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   image: 
     image_url: /bryant-dealer-kitchen-with-women_ldxodc.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace

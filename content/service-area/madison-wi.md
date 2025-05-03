@@ -6,12 +6,12 @@ menu:
     parent: "Service Area"
 seo:
   page_title: HVAC Services in Madison, WI
-  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  meta_description: Looking for reliable HVAC services in Madison? As a local, family-rooted company, we’ve been serving Madison homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: HVAC Services in Madison, WI
-  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  body: Looking for reliable HVAC services in Madison? As a local, family-rooted company, we’ve been serving Madison homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   image: 
     image_url: /bryan-dealer-conversation-with-couple-outside_xckxnj.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -39,7 +39,7 @@ Whether your system needs a quick fix or a full upgrade, Hillestad Heating and C
 
 ## HVAC Services We Offer in Madsion
 
-Whether you’re near the Capitol, the beltline or out in the suburbs, Hillestad Heating and Cooling has the tools, techs and training to service all of your HVAC needs. Our services include:
+Whether you’re near the Capitol, Dane County Regional Airport, West Towne Mall or out in the suburbs, Hillestad Heating and Cooling has the tools, techs and training to service all of your HVAC needs. Our services include:
 
 ### Heating Services
 

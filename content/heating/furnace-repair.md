@@ -50,7 +50,7 @@ Not sure if your system is failing? Call us if you notice:
 
 *	A yellow or flickering pilot light
 
-Even small furnace issues can turn into big, expensive problems if left unchecked. If something feels off, give us a call—we’ll take a look before it becomes an emergency.
+Even small furnace issues can turn into big, expensive problems if left unchecked. If something feels off, give us a call at {{< phone "madison" >}}. We’ll take a look before it becomes an emergency.
 
 ## Why Lodi Homeowners Trust Hillestad
 

@@ -24,7 +24,7 @@ hero:
 
 ## Keep Your Furnace Running Smoothly, Season After Season
 
-Don’t wait for a breakdown to give your furnace the attention it needs. Regular maintenance helps your heating system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling, furnace maintenance is stress-free, comprehensive and keeps your home running warm all winter.
+Don’t wait for a breakdown to give your furnace the attention it needs. Regular maintenance helps your heating system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling, furnace maintenance is stress-free, comprehensive and keeps your home warm all winter.
 
 Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their heating systems, no matter the brand or age.
 
@@ -51,7 +51,7 @@ Annual furnace maintenance isn’t just a recommendation, it’s the best way to
 
 *	Potential safety issues like gas leaks or carbon monoxide risks
 
-Our maintenance services are designed to catch small issues before they become big problems—saving you money and stress down the road.
+Our maintenance services are designed to catch small issues before they become big problems, saving you money and stress down the road.
 
 ## Why Lodi Homeowners Trust Hillestad 
 

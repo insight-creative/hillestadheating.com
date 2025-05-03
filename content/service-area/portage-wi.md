@@ -6,12 +6,12 @@ menu:
     parent: "Service Area"
 seo:
   page_title: HVAC Services in Portage, WI
-  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  meta_description: Looking for reliable HVAC services in Portage? As a local, family-rooted company, we’ve been serving Portage homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: HVAC Services in Portage, WI
-  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  body: Looking for reliable HVAC services in Portage? As a local, family-rooted company, we’ve been serving Portage homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   image: 
     image_url: /bryant-dealer-showing-customer-ipad_ptwrr9.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -30,7 +30,7 @@ cta:
 
 When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County, from historic downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
 
-From chilly winter furnace repair to high-efficiency air conditioner installs on hot summer days, Hillestad Heating and Cooling has you covered. We’re your local HVAC partner, dedicated to keeping our community comfortable year-round.
+From winter furnace repair to high-efficiency air conditioner installs on hot summer days, Hillestad Heating and Cooling has you covered. We’re your local HVAC partner, dedicated to keeping our community comfortable year-round.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Portage?</h2>

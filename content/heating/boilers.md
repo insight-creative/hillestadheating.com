@@ -26,12 +26,6 @@ hero:
 
 Whether your home relies on radiant heat, baseboard heating or an older steam boiler system, Hillestad Heating and Cooling has the expertise to keep it running efficiently. From quick repairs to full system upgrades, our licensed technicians are here to deliver dependable boiler service with the care and quality you expect from a name that’s served southern Wisconsin since 1988.
 
-<div class="breakout bg-black flow">
-  <h2 class="no-margin">Schedule Your Boiler Repair Service Today!</h2>
-  <p class="site-cta__middle">Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-</div>
-
 ## Boiler Services We Offer
 
 Boiler systems work differently than forced-air furnaces, and they require a technician who knows the ins and outs of hydronic heating. At Hillestad, we bring decades of hands-on experience with residential boiler systems of all types. We offer:
@@ -45,6 +39,12 @@ Boiler systems work differently than forced-air furnaces, and they require a tec
 *	**System Conversions:** Upgrading from steam or older systems? We’ll help you choose the right solution.
 
 Whether your system runs on natural gas, propane or oil, we’ve got the tools and training to keep it performing at its best.
+
+<div class="breakout bg-black flow">
+  <h2 class="no-margin">Schedule Your Boiler Repair Service Today!</h2>
+  <p class="site-cta__middle">Whether you need a quick fix or a full system upgrade, Hillestad Heating and Cooling is your local go-to for trusted boiler services. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
+</div>
 
 ## Signs Your Boiler Needs Service
 
@@ -70,12 +70,12 @@ Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by on
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 
-*	Local and Family-Rooted: Proudly serving Lodi and our surrounding communities since 1988.
+*	**Local and Family-Rooted**: Proudly serving Lodi and our surrounding communities since 1988.
 
-*	Experienced Technicians: Skilled, certified and constantly trained.
+*	**Experienced Technicians**: Skilled, certified and constantly trained.
 
-*	Prompt and Professional: We show up on time and do it right the first time.
+*	**Prompt and Professional**: We show up on time and do it right the first time.
 
-*	Energy-Efficient Solutions: We’ll help you save money and stay warm.
+*	**Energy-Efficient Solutions**: We’ll help you save money and stay warm.
 
-*	Clear and Honest Quotes: No pushy upsell. No surprises.
+*	**Clear and Honest Quotes**: No pushy upsell. No surprises.

@@ -28,12 +28,6 @@ Need a new air conditioner? Whether you're upgrading an old system or installing
 
 From helping you choose the right unit for your home to expert installation and system testing, we’ll ensure you get long-lasting comfort and energy savings. Backed by over 30 years of local experience.
 
-<div class="breakout bg-black flow">
-  <h2 class="no-margin">Schedule Your Air Conditioning Installation Today!</h2>
-  <p class="site-cta__middle">If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-</div>
-
 ## When to Replace Your A/C System
 
 Not sure if it’s time to replace your air conditioner? It may be time for a new system if:
@@ -52,17 +46,23 @@ Not sure if it’s time to replace your air conditioner? It may be time for a ne
 
 If your A/C is showing its age or costing you more than it should, we’ll walk you through your options with no pressure and honest recommendations.
 
+<div class="breakout bg-black flow">
+  <h2 class="no-margin">Schedule Your Air Conditioning Installation Today!</h2>
+  <p class="site-cta__middle">If it’s time for a cooler, more efficient home, Hillestad Heating and Cooling is here to help. Let’s find the perfect A/C system for your space, and install it the right way. Schedule your appointment online, or give us a call at {{< phone "madison" >}}.</p>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
+</div>
+
 ## A/C Systems We Install
 
 We install a full range of cooling systems to fit homes of all sizes and budgets:
 
-*	**Central Air Conditioning:** Quiet, efficient whole-home cooling
+*	**Central Air Conditioning:** Quiet, efficient whole-home cooling.
 
-*	**Ductless Mini-Split Systems:** Zoned comfort for homes without ductwork
+*	**Ductless Mini-Split Systems:** Zoned comfort for homes without ductwork.
 
-*	**Heat Pumps:** Year-round efficiency for heating and cooling
+*	**Heat Pumps:** Year-round efficiency for heating and cooling.
 
-*	**High-Efficiency Upgrades:** Save energy and stay cool with the latest technology
+*	**High-Efficiency Upgrades:** Save energy and stay cool with the latest technology.
 
 Not sure what you need? We’ll evaluate your space, listen to your goals and help you choose the system that fits your home, and your budget.
 

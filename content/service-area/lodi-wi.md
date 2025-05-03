@@ -6,12 +6,12 @@ menu:
     parent: "Service Area"
 seo:
   page_title: HVAC Services in Lodi, WI
-  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  meta_description: Looking for reliable HVAC services in Lodi? As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: HVAC Services in Lodi, WI
-  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  body: Looking for reliable HVAC services in Lodi? As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
   image: 
     image_url: /bryant-dealer-checking-gauges-2_oauphv.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -30,7 +30,7 @@ cta:
 
 Looking for reliable HVAC services in Lodi? You don’t have to look far, Hillestad Heating and Cooling has been proudly based right here since day one. As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
 
-From chilly winter furnace repairs to summer A/C installations, we’re your hometown HVAC partner, committed to keeping our neighbors comfortable all year long.
+From winter furnace repairs to summer A/C installations, we’re your hometown HVAC partner, committed to keeping our neighbors comfortable all year long.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Lodi?</h2>
@@ -42,7 +42,7 @@ Whether your system needs a quick fix or a full upgrade, Hillestad Heating and C
 
 ## HVAC Services We Offer in Lodi
 
-Whether you live near the high school, out by Lake Wisconsin, or right downtown, we’ve got your comfort covered. Our services include: 
+Whether you live right downtown, near Lodi High School or out by Lake Wisconsin, we’ve got your comfort covered. Our services include: 
 
 ### Heating Services
 

@@ -28,12 +28,6 @@ Looking for flexible, energy-efficient cooling or heating, without the hassle of
 
 Whether you're upgrading a single room, finishing a basement or replacing old electric baseboards, our experienced team will help you find the right ductless setup for your home.
 
-<div class="breakout bg-black flow">
-  <h2 class="no-margin">Get Ductless Comfort That Fits Your Home</h2>
-  <p class="site-cta__middle">Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at {{< phone "madison" >}}.</p>
-  <a class="btn btn--primary" href="/contact/">Request Service</a>
-</div>
-
 ## What Is a Ductless Mini-Split?
 
 A ductless system, also called a mini-split, is a type of heating and cooling system that doesn't rely on traditional air ducts. It consists of two main parts:
@@ -43,6 +37,12 @@ A ductless system, also called a mini-split, is a type of heating and cooling sy
 *	One or more indoor wall-mounted air handlers
 
 Each air handler controls the temperature of an individual room or “zone,” allowing you to heat or cool specific spaces more efficiently.
+
+<div class="breakout bg-black flow">
+  <h2 class="no-margin">Get Ductless Comfort That Fits Your Home</h2>
+  <p class="site-cta__middle">Ready to experience efficient, zoned comfort without the ducts? Let Hillestad Heating and Cooling design a ductless system that fits your space and lifestyle. Call us at {{< phone "madison" >}}.</p>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
+</div>
 
 ## Ideal Uses for Ductless Systems
 

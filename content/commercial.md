@@ -7,13 +7,13 @@ layout: services
 seo:
   page_title: Commercial HVAC and Refrigeration Services in Lodi, WI
   meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /commercial-office-space_qf0vhy.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Commercial HVAC and Refrigeration Services in Lodi, WI
   body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
-    image_url: /uploads/bryant-technician-demonstrating-filter-replacement
+    image_url: /commercial-office-space_qf0vhy.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
   button:
     enabled: true
@@ -88,6 +88,12 @@ Our services include:
 
 With in-office support staff and fully licensed, specialized technicians, we’re ready to help keep your building cool and your business running smoothly. We know you have options when it comes to commercial HVAC providers, and we’re committed to earning your trust with dependable service, expert guidance and honest communication every step of the way.
 
+<div class="breakout bg-black flow">
+  <h2 class="no-margin">Let’s Keep Your Business Running Smoothly</h2>
+  <p class="site-cta__middle">Looking for a trusted HVAC and refrigeration partner? Hillestad Heating and Cooling is here to help with professional commercial service that’s fast, fair and dependable. Call us at {{< phone "madison" >}}.</p>
+  <a class="btn btn--primary" href="/contact/">Request Service</a>
+</div>
+
 ### Commercial Refrigeration
 
 Servicing: Ice machines, walk-in coolers, basic refrigeration, supermarkets, commercial freezers, commercial refrigeration coolers, walk-in freezers supermarkets, bakeries, catering halls, cold storage facilities, commercial ice machines, convenience stores, hotels and motels.
@@ -108,13 +114,13 @@ The air inside your home affects more than just comfort, it impacts your health,
 
 With Aprilaire, you can go beyond just adjusting the thermostat. These advanced systems help balance all key aspects of indoor air quality:
 
-*	**Humidity:** Prevent mold and dryness with whole-home humidifiers and dehumidifiers
+*	**Humidity:** Prevent mold and dryness with whole-home humidifiers and dehumidifiers.
 
-*	**Air Purity:** Remove allergens, dust and pollutants with HEPA filters and whole-home air purifiers
+*	**Air Purity:** Remove allergens, dust and pollutants with HEPA filters and whole-home air purifiers.
 
-*	**Air Freshness:** Enjoy clean, fresh air with mechanical ventilation systems (ERV/HRV)
+*	**Air Freshness:** Enjoy clean, fresh air with mechanical ventilation systems (ERV/HRV).
 
-*	**Temperature:** Maintain consistent, comfortable temps across every room
+*	**Temperature:** Maintain consistent, comfortable temps across every room.
 
 All of these indoor air essentials come into perfect harmony with a single, easy-to-use control system, making it simple to manage your comfort year-round.
 

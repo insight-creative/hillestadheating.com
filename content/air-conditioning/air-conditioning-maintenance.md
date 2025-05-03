@@ -26,7 +26,7 @@ hero:
 
 Don’t wait for a breakdown to give your air conditioner the attention it needs. Regular maintenance helps your cooling system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling, furnace maintenance is stress-free, comprehensive and keeps your home running warm all winter.
 
-Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their heating systems, no matter the brand or age.
+Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their cooling systems, no matter the brand or age.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Air Conditioning Maintenance Today!</h2>
@@ -38,15 +38,15 @@ Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and su
 
 Your air conditioner performs better with regular checkups. A professional tune-up:
 
-*	Improves energy efficiency and lowers utility bills
+*	Improves energy efficiency and lowers utility bills.
 
-*	Prevents unexpected breakdowns during peak summer heat
+*	Prevents unexpected breakdowns during peak summer heat.
 
-*	Extends the life of your system
+*	Extends the life of your system.
 
-*	Keeps your indoor air cleaner and healthier
+*	Keeps your indoor air cleaner and healthier.
 
-*	Ensures optimal cooling performance across every room
+*	Ensures optimal cooling performance across every room.
 
 Our trained technicians spot small issues before they become expensive problems. 
 
