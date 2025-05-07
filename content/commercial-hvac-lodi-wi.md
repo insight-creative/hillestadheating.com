@@ -4,14 +4,15 @@ menu:
   main:
     weight: 4
 layout: services
+page_class: page-services
 seo:
   page_title: Commercial HVAC and Refrigeration Services in Lodi, WI
-  meta_description: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  meta_description: Need HVAC help for your business? Hillestad handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   featured_image: /commercial-office-space_qf0vhy.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Commercial HVAC and Refrigeration Services in Lodi, WI
-  body: Need HVAC help for your business? Hillestad Heating handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
+  body: Need HVAC help for your business? Hillestad Heating and Cooling Systems handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
   image: 
     image_url: /commercial-office-space_qf0vhy.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,7 +25,7 @@ hero:
 
 ## Reliable Comfort for Your Business
 
-Running a business is tough enough, your heating, cooling and refrigeration systems shouldn’t be. At Hillestad Heating and Cooling, we provide dependable commercial HVAC and refrigeration services to keep your business running smoothly and your space comfortable year-round.
+Running a business is tough enough, your heating, cooling and refrigeration systems shouldn’t be. At Hillestad Heating and Cooling Systems, we provide dependable commercial HVAC and refrigeration services to keep your business running smoothly and your space comfortable year-round.
 
 From offices and retail spaces to restaurants and light industrial buildings, our licensed technicians deliver responsive, knowledgeable service that Wisconsin businesses have trusted since 1988.
 
@@ -40,7 +41,7 @@ We specialize in a full range of commercial heating, cooling and refrigeration s
 
 ### Commercial Heating
 
-Hillestad Heating offers full-service heating solutions for commercial properties, including system repairs, replacements and new construction projects. We specialize in serving restaurants, hotels and a wide range of commercial facilities.
+Hillestad Heating and Cooling offers full-service heating solutions for commercial properties, including system repairs, replacements and new construction projects. We specialize in serving restaurants, hotels and a wide range of commercial facilities.
 
 We don’t push specific brands, instead, we take time to understand your building’s needs and work with you to develop a customized, energy-efficient solution that fits your goals and budget.
 
@@ -70,7 +71,7 @@ Whether it’s a rooftop unit, a boiler system or specialty equipment, we have t
 
 ### Commercial Air Conditioning
 
-Hillestad Heating offers a complete range of commercial air conditioning services for businesses. We service all makes and models of commercial A/C systems. Our experienced team is equipped to handle all your cooling needs, no matter the size or scope of your operation.
+Hillestad Heating and Cooling offers a complete range of commercial air conditioning services for businesses. We service all makes and models of commercial A/C systems. Our experienced team is equipped to handle all your cooling needs, no matter the size or scope of your operation.
 
 Our services include:
 

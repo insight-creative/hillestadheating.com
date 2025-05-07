@@ -4,14 +4,15 @@ menu:
   main:
     parent: "Heating"
 layout: services
+page_class: page-services
 seo:
   page_title: Furnace Maintenance in Lodi, WI
-  meta_description: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
+  meta_description: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad is here to help.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Furnace Maintenance in Lodi, WI
-  body: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating is here to help.
+  body: Want to avoid heating issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad Heating and Cooling Systems is here to help.
   image: 
     image_url: /bryant-dealer-working-on-furnace-in-basement-2_xo0etw.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,10 +25,9 @@ hero:
 
 ## Keep Your Furnace Running Smoothly, Season After Season
 
-Don’t wait for a breakdown to give your furnace the attention it needs. Regular maintenance helps your heating system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling, furnace maintenance is stress-free, comprehensive and keeps your home warm all winter.
+Don’t wait for a breakdown to give your furnace the attention it needs. Regular maintenance helps your heating system perform at its best, prevents costly repairs and extends its lifespan. With Hillestad Heating and Cooling Systems, furnace maintenance is stress-free, comprehensive and keeps your home warm all winter.
 
-Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and surrounding areas get the most out of their heating systems, no matter the brand or age.
-
+Since 1988, we’ve been helping homeowners across Lodi, Baraboo, Portage and the surrounding areas get the most out of their heating systems, no matter the brand or age.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Schedule Your Furnace Maintenance Today!</h2>

@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Madison, WI
   meta_description: Looking for reliable HVAC services in Madison? As a local, family-rooted company, we’ve been serving Madison homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -27,7 +28,7 @@ cta:
 ---
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Madison, WI
 
-Looking for trustworthy HVAC service in Madison? Hillestad Heating and Cooling brings over 30 years of experience to homeowners and businesses across the greater Madison area. From furnace repairs in the winter to air conditioning upgrades in the summer, our team delivers high-quality and personalized service.
+Looking for trustworthy HVAC service in Madison? Hillestad Heating and Cooling Systems brings over 30 years of experience to homeowners and businesses across the greater Madison area. From furnace repairs in the winter to air conditioning upgrades in the summer, our team delivers high-quality and personalized service.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Madison?</h2>
@@ -85,7 +86,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Madison Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 

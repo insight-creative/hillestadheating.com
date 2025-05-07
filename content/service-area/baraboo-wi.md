@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Baraboo, WI
   meta_description: Looking for reliable HVAC services in Baraboo? As a local, family-rooted company, we’ve been serving Baraboo homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -28,7 +29,7 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Baraboo, WI
 
-When your home or business in Baraboo needs heating or cooling service, Hillestad Heating and Cooling is just a call away. We’ve been serving Sauk County and surrounding areas with trusted, high-quality HVAC care since 1988. We’re proud to support the Baraboo community with fast response times and friendly, professional service.
+When your home or business in Baraboo needs heating or cooling service, Hillestad Heating and Cooling Systems is just a call away. We’ve been serving Sauk County and surrounding areas with trusted, high-quality HVAC care since 1988. We’re proud to support the Baraboo community with fast response times and friendly, professional service.
 
 Whether you live near Devil’s Lake, in town or outside the city limits, we’re here to help you stay comfortable all year long. 
 
@@ -88,7 +89,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Baraboo Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 

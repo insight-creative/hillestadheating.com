@@ -4,14 +4,15 @@ menu:
   main:
     weight: 2
 layout: services
+page_class: page-services
 seo:
   page_title: Air Conditioning Services in Lodi, WI
-  meta_description: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
+  meta_description: Need air conditioning service? Hillestad provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Air Conditioning Services in Lodi, WI
-  body: Need air conditioning service? Hillestad Heating provides fast, reliable A/C repairs and installations across south-central Wisconsin.
+  body: Need air conditioning service? Hillestad Heating and Cooling Systems provides fast, reliable A/C repairs and installations across south-central Wisconsin.
   image: 
     image_url: /bryant-dealer-with-family-outside_vgk9o6.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,7 +25,7 @@ hero:
 
 ## Stay Cool, Comfortable and Worry-Free, All Summer Long
 
-When the Wisconsin heat hits, you need an air conditioning system you can count on. At Hillestad Heating and Cooling, we specialize in keeping homes cool and efficient with expert A/C repair, maintenance and installation services.
+When the Wisconsin heat hits, you need an air conditioning system you can count on. At Hillestad Heating and Cooling Systems, we specialize in keeping homes cool and efficient with expert A/C repair, maintenance and installation services.
 
 Whether you need a quick fix, seasonal tune-up or a full system replacement, our experienced team is ready to deliver fast, honest and high-quality air conditioning service across Lodi, Baraboo, Portage and beyond.
 

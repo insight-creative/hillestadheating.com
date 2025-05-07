@@ -1,14 +1,6 @@
 @include breakpoint (md) {
-  .parent-page-air-conditioning,
-  .parent-page-heating,
-  .parent-page-service-area,
-  .page-indoor-air-quality,
-  .page-commercial,
-  .parent-page-air-conditioning .site-wrap,
-  .parent-page-service-area .site-wrap,
-  .page-indoor-air-quality .site-wrap,
-  .page-commercial .site-wrap,
-  .parent-page-heating .site-wrap {
+  .page-services,
+  .page-services .site-wrap {
     overflow-x: initial;
   }
 }

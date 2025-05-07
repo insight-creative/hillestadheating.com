@@ -4,6 +4,7 @@ menu:
   main:
     weight: 3
 layout: services
+page_class: page-services
 seo:
   page_title:  Indoor Air Quality Solutions in Lodi, WI
   meta_description: Improve your air quality with Aprilaire. Hillestad delivers expert installation of whole-home systems to reduce allergens, mold and stale air.
@@ -26,7 +27,7 @@ hero:
 
 You can’t always see air quality problems, but you can feel them. Whether it’s allergies, excess dust or persistent odors, poor indoor air quality (IAQ) affects your comfort, health and even your HVAC system’s performance.
 
-At Hillestad Heating and Cooling, we help you breathe easier with expert IAQ solutions that make your home safer, fresher and healthier year-round.
+At Hillestad Heating and Cooling Systems, we help you breathe easier with expert IAQ solutions that make your home safer, fresher and healthier year-round.
 
 ## Why Indoor Air Quality Matters
 

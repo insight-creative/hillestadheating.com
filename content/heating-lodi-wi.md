@@ -4,6 +4,7 @@ menu:
   main:
     weight: 1
 layout: services
+page_class: page-services
 seo:
   page_title: Professional Heating Services in Lodi, WI
   meta_description:  Get professional furnace and heating repair, replacement and new system installations in Lodi, WI.
@@ -24,7 +25,7 @@ hero:
 
 ## Keep Your Home Comfortable
 
-When Wisconsin winters hit hard, Hillestad Heating and Cooling is here to keep your home warm, safe and energy-efficient. From routine maintenance and emergency repairs to full furnace or boiler replacements, our skilled team delivers reliable, people-first HVAC service you can count on.
+When Wisconsin winters hit hard, Hillestad Heating and Cooling Systems is here to keep your home warm, safe and energy-efficient. From routine maintenance and emergency repairs to full furnace or boiler replacements, our skilled team delivers reliable, people-first HVAC service you can count on.
 
 We proudly serve homeowners and small businesses from Stoughton to Wisconsin Dells. Fast, friendly and experienced heating service has been the heart of our business since 1988.
 

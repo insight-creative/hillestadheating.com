@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Sauk City, WI
   meta_description: Looking for reliable HVAC services in Sauk City? As a local, family-rooted company, we’ve been serving Sauk City homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -22,13 +23,13 @@ hero:
     open_in_new_tab: false
 mapEmbedID: "!1m18!1m12!1m3!1d11620.692537556673!2d-89.7415191627988!3d43.26874853796582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88077312a0f1f741%3A0x3d72e4833b302300!2sSauk%20City%2C%20WI%2053583!5e0!3m2!1sen!2sus!4v1745201706786!5m2!1sen!2sus"
 cta:
-  heading: Need HVAC Service in Sauk City??
+  heading: Need HVAC Service in Sauk City?
   body: Whether your system needs a quick fix or a full upgrade, Hillestad Heating and Cooling is here to help, fast, friendly and just down the road. Schedule your appointment online, or give us a call at {{< phone "saukcity" >}}.
 ---
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Sauk City, WI
 
-Hillestad Heating and Cooling proudly serves Sauk City with high-quality HVAC service backed by decades of local experience. From heating system repairs in the dead of winter to air quality upgrades in the summer, our licensed technicians are ready to help. We work hard to keep your home or business running at peak comfort and efficiency.
+Hillestad Heating and Cooling Systems proudly serves Sauk City with high-quality HVAC service backed by decades of local experience. From heating system repairs in the dead of winter to air quality upgrades in the summer, our licensed technicians are ready to help. We work hard to keep your home or business running at peak comfort and efficiency.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Sauk City?</h2>
@@ -86,7 +87,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Sauk City Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 

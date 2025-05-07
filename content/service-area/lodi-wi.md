@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Lodi, WI
   meta_description: Looking for reliable HVAC services in Lodi? As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -28,7 +29,7 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Lodi, WI
 
-Looking for reliable HVAC services in Lodi? You don’t have to look far, Hillestad Heating and Cooling has been proudly based right here since day one. As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
+Looking for reliable HVAC services in Lodi? You don’t have to look far, Hillestad Heating and Cooling Systems has been proudly based right here since day one. As a local, family-rooted company, we’ve been serving Lodi homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
 
 From winter furnace repairs to summer A/C installations, we’re your hometown HVAC partner, committed to keeping our neighbors comfortable all year long.
 
@@ -88,7 +89,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Lodi Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 

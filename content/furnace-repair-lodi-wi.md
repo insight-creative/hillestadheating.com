@@ -4,14 +4,15 @@ menu:
   main:
     parent: "Heating"
 layout: services
+page_class: page-services
 seo:
   page_title: Furnace Repair in Lodi, WI
-  meta_description: Cold home? Call Hillestad Heating for fast, affordable furnace repair in Lodi, WI. Trusted local service with 30+ years of experience.
+  meta_description: Cold home? Call Hillestad for fast, affordable furnace repair in Lodi, WI. Trusted local service with 30+ years of experience.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Furnace Repair in Lodi, WI
-  body: Cold home? Call Hillestad Heating for fast, affordable furnace repair in Lodi, WI. Trusted local service with 30+ years of experience.
+  body: Cold home? Call Hillestad Heating and Cooling Systems for fast, affordable furnace repair in Lodi, WI. Trusted local service with 30+ years of experience.
   image: 
     image_url: /bryant-dealer-working-on-furnace-in-basement-3_evckjq.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,7 +25,7 @@ hero:
 
 ## Keep Your Home Comfortable
 
-There’s nothing worse than a cold home in the middle of a Wisconsin winter. If your furnace isn’t working right, Hillestad Heating and Cooling is ready to help. Our licensed technicians are quick to diagnose the problem, fix it efficiently and get your heat back on.
+There’s nothing worse than a cold home in the middle of a Wisconsin winter. If your furnace isn’t working right, Hillestad Heating and Cooling Systems is ready to help. Our licensed technicians are quick to diagnose the problem, fix it efficiently and get your heat back on.
 
 From strange noises and weak airflow to complete system breakdowns, we’ve been repairing furnaces across Lodi, Portage, Baraboo and the surrounding area for more than 30 years.
 

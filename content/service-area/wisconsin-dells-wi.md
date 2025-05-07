@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Wisconsin Dells, WI
   meta_description: Looking for reliable HVAC services in Wisconsin Dells? As a local, family-rooted company, we’ve been serving Wisconsin Dells homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -29,7 +30,7 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Wisconsin Dells, WI
 
-Whether it’s the chilly mornings by the Wisconsin River or the hot summer days on Lake Delton, Hillestad Heating and Cooling keeps your Wisconsin Dells home or business comfortable. Family‑owned since 1988, we’ve built our reputation on reliable service and quality products. Our certified, friendly technicians arrive promptly and tackle every job with care and professionalism.
+Whether it’s the chilly mornings by the Wisconsin River or the hot summer days on Lake Delton, Hillestad Heating and Cooling Systems keeps your Wisconsin Dells home or business comfortable. Family‑owned since 1988, we’ve built our reputation on reliable service and quality products. Our certified, friendly technicians arrive promptly and tackle every job with care and professionalism.
 
 <div class="breakout bg-black flow">
   <h2 class="no-margin">Need HVAC Service in Wisconsin Dells?</h2>
@@ -87,7 +88,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Wisconsin Dells Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 

@@ -4,14 +4,15 @@ menu:
   main:
     parent: "Heating"
 layout: services
+page_class: page-services
 seo:
   page_title: Furnace Installation in Lodi, WI
-  meta_description: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating provides honest recommendations and professional service since 1988.
+  meta_description: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad provides honest recommendations and professional service since 1988.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Furnace Installation in Lodi, WI
-  body: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating provides honest recommendations and professional service since 1988.
+  body: Upgrade your comfort with expert furnace installation in Lodi, WI. Hillestad Heating and Cooling Systems provides honest recommendations and professional service since 1988.
   image: 
     image_url: /bryant-dealer-working-on-furnace-in-basement-4_unv3s7.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace

@@ -4,14 +4,15 @@ menu:
   main:
     parent: "Heating"
 layout: services
+page_class: page-services
 seo:
   page_title:  Boiler Services in Lodi, WI
-  meta_description:  Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
+  meta_description:  Need boiler service? Hillestad offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading:  Boiler Services in Lodi, WI
-  body: Need boiler service? Hillestad Heating offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
+  body: Need boiler service? Hillestad Heating and Cooling Systems offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
   image: 
     image_url: /boiler-installation-in-lodi-wi_hndrf8.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,7 +25,7 @@ hero:
 
 ## Reliable Boiler Repairs, Maintenance and Replacements
 
-Whether your home relies on radiant heat, baseboard heating or an older steam boiler system, Hillestad Heating and Cooling has the expertise to keep it running efficiently. From quick repairs to full system upgrades, our licensed technicians are here to deliver dependable boiler service with the care and quality you expect from a name that’s served southern Wisconsin since 1988.
+Whether your home relies on radiant heat, baseboard heating or an older steam boiler system, Hillestad Heating and Cooling Systems has the expertise to keep it running efficiently. From quick repairs to full system upgrades, our licensed technicians are here to deliver dependable boiler service with the care and quality you expect from a name that’s served southern Wisconsin since 1988.
 
 ## Boiler Services We Offer
 

@@ -21,8 +21,8 @@ hero:
     open_in_new_tab: false
 ---
 
-## Trusted HVAC Experts Serving Lodi, WI and Surrounding Areas
+## Trusted HVAC Experts Serving Lodi, WI, and Surrounding Areas
 
-At Hillestad Heating and Cooling, we’ve proudly served Lodi-area homeowners and businesses for over 30 years. From A/C repair in the peak of summer to furnace maintenance during Wisconsin’s coldest months, we bring comfort, quality and care to every job.
+At Hillestad Heating and Cooling Systems, we’ve proudly served Lodi-area homeowners and businesses for over 30 years. From A/C repair in the peak of summer to furnace maintenance during Wisconsin’s coldest months, we bring comfort, quality and care to every job.
 
 Whether you're in Lodi or in one of the many neighboring communities, our team is ready to help. 

@@ -4,14 +4,15 @@ menu:
   main:
     parent: "Air Conditioning"
 layout: services
+page_class: page-services
 seo:
   page_title: Ductless Mini-Split Systems in Lodi, WI
-  meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
+  meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad. Trusted by Wisconsin homeowners for over 30 years.
   featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Ductless Mini-Split Systems in Lodi, WI
-  body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating. Trusted by Wisconsin homeowners for over 30 years.
+  body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating and Cooling Systems. Trusted by Wisconsin homeowners for over 30 years.
   image: 
     image_url: /bryant-dealer-outside-ipad-ductless-unit_nzv8ax.jpg
     image_alt: Bryant technician talking with homeowner while checking air filter and furnace
@@ -24,7 +25,7 @@ hero:
 
 ## Efficient, Zoned Comfort Without the Ductwork
 
-Looking for flexible, energy-efficient cooling or heating, without the hassle of ductwork? A ductless mini-split system might be the perfect solution. At Hillestad Heating and Cooling, we install and service high-quality ductless systems that give you precise temperature control room by room.
+Looking for flexible, energy-efficient cooling or heating, without the hassle of ductwork? A ductless mini-split system might be the perfect solution. At Hillestad Heating and Cooling Systems, we install and service high-quality ductless systems that give you precise temperature control room by room.
 
 Whether you're upgrading a single room, finishing a basement or replacing old electric baseboards, our experienced team will help you find the right ductless setup for your home.
 

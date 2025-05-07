@@ -4,6 +4,7 @@ layout: servicearea
 menu:
   main:
     parent: "Service Area"
+page_class: page-services
 seo:
   page_title: HVAC Services in Portage, WI
   meta_description: Looking for reliable HVAC services in Portage? As a local, family-rooted company, we’ve been serving Portage homes and businesses with expert heating, cooling and indoor air quality solutions since 1988.
@@ -28,7 +29,7 @@ cta:
 
 ## Trusted Heating, Cooling and Indoor Air Quality Solutions in Portage, WI
 
-When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County, from historic downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
+When your home or business in Portage needs heating or cooling support, Hillestad Heating and Cooling Systems is here to help. Since 1988, we’ve delivered trusted HVAC care across Columbia County, from historic downtown Portage and the North Side to the Riverwalk. With fast response times and professional, friendly technicians, we’re proud to serve every corner of Portage.
 
 From winter furnace repair to high-efficiency air conditioner installs on hot summer days, Hillestad Heating and Cooling has you covered. We’re your local HVAC partner, dedicated to keeping our community comfortable year-round.
 
@@ -86,7 +87,7 @@ We service all major brands, and we’ll always provide honest recommendations t
 
 ## Why Portage Homeowners and Businesses Trust Hillestad
 
-Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
+Back in 1988, Hillestad was five hardworking HVAC pros in a garage, united by one mission: to offer better heating service with a personal touch. Decades later, that mission hasn’t changed.
 
 Here’s why customers across southern Wisconsin continue to choose Hillestad Heating:
 
