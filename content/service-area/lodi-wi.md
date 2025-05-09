@@ -47,7 +47,7 @@ Whether you live right downtown, near Lodi High School or out by Lake Wisconsin,
 
 ### Heating Services
 
-* Furnace Repair, replacement and installation
+* Furnace repair, replacement and installation
 
 * Boiler service and maintenance
 

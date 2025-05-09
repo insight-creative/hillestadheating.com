@@ -97,7 +97,7 @@ With in-office support staff and fully licensed, specialized technicians, we’r
 
 ### Commercial Refrigeration
 
-Servicing: Ice machines, walk-in coolers, basic refrigeration, supermarkets, commercial freezers, commercial refrigeration coolers, walk-in freezers supermarkets, bakeries, catering halls, cold storage facilities, commercial ice machines, convenience stores, hotels and motels.
+Servicing: Ice machines, walk-in coolers, basic refrigeration, supermarkets, commercial freezers, commercial refrigeration coolers, walk-in freezers, bakeries, catering halls, cold storage facilities, commercial ice machines, convenience stores, hotels and motels.
 
 ### Boiler Services
 

@@ -45,7 +45,7 @@ No matter if you live down by the Wisconsin River in Historic Downtown or up by 
 
 ### Heating Services
 
-* Furnace Repair, replacement and installation
+* Furnace repair, replacement and installation
 
 * Boiler service and maintenance
 

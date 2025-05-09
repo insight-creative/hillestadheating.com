@@ -38,13 +38,13 @@ Whether your system needs a quick fix or a full upgrade, Hillestad Heating and C
   <a class="btn btn--primary" href="/contact/">Request Service</a>
 </div>
 
-## HVAC Services We Offer in Madsion
+## HVAC Services We Offer in Madison
 
 Whether you’re near the Capitol, Dane County Regional Airport, West Towne Mall or out in the suburbs, Hillestad Heating and Cooling has the tools, techs and training to service all of your HVAC needs. Our services include:
 
 ### Heating Services
 
-* Furnace Repair, replacement and installation
+* Furnace repair, replacement and installation
 
 * Boiler service and maintenance
 

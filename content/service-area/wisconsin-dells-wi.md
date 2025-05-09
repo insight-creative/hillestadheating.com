@@ -46,7 +46,7 @@ Whether you need a furnace tune‑up or an energy efficient air conditioner inst
 
 ### Heating Services
 
-* Furnace Repair, replacement and installation
+* Furnace repair, replacement and installation
 
 * Boiler service and maintenance
 

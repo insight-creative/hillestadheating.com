@@ -45,7 +45,7 @@ From Lake Wisconsin to the Ferry Bluff State Natural Area, we’ve got your comf
 
 ### Heating Services
 
-* Furnace Repair, replacement and installation
+* Furnace repair, replacement and installation
 
 * Boiler service and maintenance
 
