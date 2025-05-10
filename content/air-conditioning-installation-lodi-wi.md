@@ -25,7 +25,7 @@ hero:
 
 ## Expert A/C Installation That Keeps You Cool for Years to Come
 
-Need a new air conditioner? Whether you're upgrading an old system or installing A/C for the first time, Hillestad Heating and Cooling Systems makes the process easy, efficient and worry-free.
+Need a new air conditioner? Whether you're upgrading an old system or installing an A/C for the first time, Hillestad Heating and Cooling Systems makes the process easy, efficient and worry-free.
 
 From helping you choose the right unit for your home to expert installation and system testing, we’ll ensure you get long-lasting comfort and energy savings. Backed by over 30 years of local experience.
 

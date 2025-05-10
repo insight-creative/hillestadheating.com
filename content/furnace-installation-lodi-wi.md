@@ -25,7 +25,7 @@ hero:
 
 ## Get Reliable Heat with a New Furnace Installation
 
-Is your old furnace is struggling to keep up? Is it costing you more in repairs and energy bills? It may be time for a replacement. At Hillestad Heating and Cooling, we make furnace installation simple and stress-free.
+Is your old furnace struggling to keep up? Is it costing you more in repairs and energy bills? It may be time for a replacement. At Hillestad Heating and Cooling, we make furnace installation simple and stress-free.
 
 We’ve helped hundreds of homeowners in Lodi and surrounding communities upgrade to modern, high-efficiency heating systems. Whether you’re replacing an aging furnace or starting from scratch in a new build, our licensed technicians will help you choose the right system for your home and install it with precision.
 

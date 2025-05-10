@@ -9,6 +9,8 @@
                 <h2>Commercial HVAC and Refrigeration Services Near You</h2>
             {{ else if eq .Title "Heating" }}
                 <h2>Heating Services Near You</h2>
+            {{ else if eq .Title "Air Conditioning" }}
+                <h2>Air Conditioning Services Near You</h2>
             {{ else }}
                 <h2>{{ .Title }} Near You</h2>
             {{ end }}

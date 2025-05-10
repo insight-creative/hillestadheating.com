@@ -63,7 +63,7 @@ With Aprilaire, you can go beyond just adjusting the thermostat. These advanced 
 
 * **Humidity:** Prevent mold and dryness with whole-home humidifiers and dehumidifiers.
 
-* **Air Purity:** Remove allergens, dust, and pollutants with HEPA filters and whole-home air purifiers.
+* **Air Purity:** Remove allergens, dust and pollutants with HEPA filters and whole-home air purifiers.
 
 * **Air Freshness:** Enjoy clean, fresh air with mechanical ventilation systems (ERV/HRV).
 
