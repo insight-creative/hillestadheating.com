@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Furnace Repair in Lodi, WI
   meta_description: Cold home? Call Hillestad for fast, affordable furnace repair in Lodi, WI. Trusted local service with 30+ years of experience.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Furnace Repair in Lodi, WI

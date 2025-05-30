@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title:  Boiler Services in Lodi, WI
   meta_description:  Need boiler service? Hillestad offers expert repairs, tune-ups and installations across Lodi, Baraboo, Portage and nearby communities.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading:  Boiler Services in Lodi, WI

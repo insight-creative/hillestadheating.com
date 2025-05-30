@@ -6,7 +6,7 @@ menu:
 seo:
   page_title: Hillestad Heating and Cooling Pay Online Options
   meta_description: Here at Hillestad Heating and Cooling Systems, we want purchasing a new heating and cooling system to be as affordable as possible. Explore our payment options for your new HVAC products.
-  featured_image: /uploads/husband-and-wife-sitting-at-table-with-bryant-salesperson-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant salesperson meeting with homeowners at kitchen table
 hero: 
   heading: Pay Online

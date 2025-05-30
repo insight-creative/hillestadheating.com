@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Air Conditioning Services in Lodi, WI
   meta_description: Need air conditioning service? Hillestad provides fast, reliable A/C repairs and installations across south-central Wisconsin.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Air Conditioning Services in Lodi, WI

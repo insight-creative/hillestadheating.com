@@ -3,7 +3,7 @@ title: Home
 seo:
   page_title: HVAC Company in Lodi, WI
   meta_description: Hillestad has over 30 years of experience providing HVAC services in Lodi, WI. Our trained technicians are here to help you. Call us today!
-  featured_image: /uploads/richter-social-preview.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt:
 hero: 
   heading: HVAC Company in Lodi, WI

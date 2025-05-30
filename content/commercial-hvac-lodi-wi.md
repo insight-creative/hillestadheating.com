@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Commercial HVAC and Refrigeration Services in Lodi, WI
   meta_description: Need HVAC help for your business? Hillestad handles commercial heating, cooling, refrigeration and more. Trusted in Wisconsin since 1988.
-  featured_image: /commercial-office-space_qf0vhy.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Commercial HVAC and Refrigeration Services in Lodi, WI

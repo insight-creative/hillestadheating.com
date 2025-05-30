@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Air Conditioning Maintenance in Lodi, WI
   meta_description: Want to avoid cooling issues? Regular maintenance can enhance efficiency and comfort while saving you money. Hillestad is here to help.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Air Conditioning Maintenance in Lodi, WI

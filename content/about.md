@@ -6,7 +6,7 @@ menu:
 seo:
   page_title: About Hillestad Heating and Cooling Systems
   meta_description: From garage startup to trusted HVAC leader, Hillestad has proudly served Wisconsin homes and businesses since 1988.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: About Hillestad Heating and Cooling Systems

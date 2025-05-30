@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Air Conditioning Installation in Lodi, WI
   meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad. Trusted by Wisconsin homeowners for over 30 years.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Air Conditioning Installation in Lodi, WI

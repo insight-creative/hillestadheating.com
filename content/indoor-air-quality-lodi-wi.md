@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title:  Indoor Air Quality Solutions in Lodi, WI
   meta_description: Improve your air quality with Aprilaire. Hillestad delivers expert installation of whole-home systems to reduce allergens, mold and stale air.
-  featured_image: /aprilaire-indoor-air-quality-equipment-installation_h5cpfu.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Indoor Air Quality Solutions in Lodi, WI

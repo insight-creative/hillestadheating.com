@@ -6,7 +6,7 @@ menu:
 seo:
   page_title: Heating and Cooling Services Near You
   meta_description: Need HVAC service near Lodi? Hillestad provides fast, reliable heating and cooling solutions across Dane County and beyond.
-  featured_image: /uploads/bryant-technician-demonstrating-filter-replacement-1000.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Heating and Cooling Services Near You

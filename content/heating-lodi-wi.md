@@ -8,7 +8,7 @@ page_class: page-services
 seo:
   page_title: Professional Heating Services in Lodi, WI
   meta_description:  Get professional furnace and heating repair, replacement and new system installations in Lodi, WI.
-  featured_image: /bryant-dealer-working-on-furnace-in-basement_lejtzf.jpg
+  featured_image: /hillestad-social-preview_pjpfo1.jpg
   featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
 hero: 
   heading: Professional Heating Services in Lodi, WI
