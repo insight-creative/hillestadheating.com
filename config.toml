@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://www.hillestadheating.com"
 languageCode = "en-us"
 title = "Hillestad Heating and Cooling"
 enableRobotsTXT = true

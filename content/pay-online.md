@@ -10,7 +10,7 @@ seo:
   featured_image_alt: Bryant salesperson meeting with homeowners at kitchen table
 hero: 
   heading: Pay Online
-  body: For your convenience you can pay your Hillestad invoice with a credit card (up to $5,000)
+  body: For your convenience you can pay your Hillestad invoice with a credit card
   image: 
     image_url: /bryant-dealer-kitchen-with-women_ldxodc.jpg
     image_alt: Bryant salesperson meeting with homeowners at kitchen table
