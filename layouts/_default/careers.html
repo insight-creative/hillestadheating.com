@@ -5,9 +5,7 @@
     <div class="block">
         <div class="wrapper flow">
             {{ .Content  }}
-            <div class="contact-info__col w-100 w-70-m">
-                {{ partial "forms/application-form" . }}
-            </div>
+            {{ partial "forms/application-form" . }}
         </div>
     </div>
     {{ end }}

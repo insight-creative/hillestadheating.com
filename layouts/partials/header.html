@@ -1,9 +1,6 @@
 {{ "<!-- Header -->" | safeHTML }}
 <a class="screen-reader-skip-to-content" href="#main-content" tabindex="0" aria-label="Skip to main content">Skip to main content</a>
 <a class="screen-reader-skip-to-content" href="#footer" tabindex="0" aria-label="Skip to footer content">Skip to footer content</a>
-<div class="call-us-banner bg-primary text-align-center">
-  <a class="call-us-banner__phone flex flex-center flex-justify-center" href="tel:+1{{ .Site.Data.site_settings.phone | replaceRE "[^0-9]" "" }}" aria-label="Call Hillestad Heating and Cooling Systems"><span class="icon-sm icon-fill-primary">{{ partial "svg-icons/phone.svg" . }}</span> Call Us: {{ .Site.Data.site_settings.phone }}</a>
-</div>
 <header class="header bg-white">
   <div class="header__top bg-gray">
     <nav class="header__secondary-nav wrapper-lg flex flex-center flex-justify-space-around" aria-label="secondary navigation">
@@ -89,6 +86,13 @@
               <a class="header__mobile-nav-link fw-500" href="{{ .URL }}" aria-label="{{ .Name }}" title="{{ .Name }}">{{ .Name }}</a>
             </li>
             {{ end }}
+          {{ end }}
+          {{ range .Site.Menus.secondary }}
+            <li class="header__mobile-nav-item">
+              <a class="header__mobile-nav-link" href="{{ .URL }}" aria-label="{{ .Name }}">
+                  {{ .Name }}
+              </a>
+            </li>
           {{ end }}
           <li class="header__mobile-nav-item">
             <a class="btn btn--primary" href="/contact/" aria-label="Request Service">
