@@ -9,13 +9,13 @@ seo:
   page_title: Ductless Mini-Split Systems in Lodi, WI
   meta_description: Need a new A/C system? Stay cool with expert A/C installation from Hillestad. Trusted by Wisconsin homeowners for over 30 years.
   featured_image: /hillestad-social-preview_pjpfo1.jpg
-  featured_image_alt: Bryant technician talking with homeowner while checking air filter and furnace
+  featured_image_alt: 
 hero: 
   heading: Ductless Mini-Split Systems in Lodi, WI
   body: Need a new A/C system? Stay cool with expert A/C installation from Hillestad Heating and Cooling Systems. Trusted by Wisconsin homeowners for over 30 years.
   image: 
-    image_url: /bryant-dealer-outside-ipad-ductless-unit_nzv8ax.jpg
-    image_alt: Bryant technician talking with homeowner while checking air filter and furnace
+    image_url: /ductless-mini-split_fo0zga.jpg
+    image_alt: Mitsubishi ductless mini split on a wall
   button:
     enabled: true
     button_url: /contact/ 
@@ -62,6 +62,8 @@ Ductless systems are perfect for:
 *	Energy-efficient upgrades in older homes
 
 They’re also a great fit for families with different temperature preferences in different rooms.
+
+<img src="https://res.cloudinary.com/hillestad/image/upload/v1751524995/woman-on-couch-with-mini-split-on-wall_vkcrd5.jpg" alt="Woman on couch with ductless mini split on the wall">
 
 ## Why Lodi Homeowners Trust Hillestad
 

@@ -3,7 +3,7 @@
 <section class="full-width-featured authorized-dealer block" style="background-image: url('{{ .background }}')">
     <div class="full-width-featured__content wrapper-lg">
       <div class="fade-up flex flex-center flex-column flex-row-m">
-        <div class="w-100 w-70-m text-color-white flow">
+        <div class="w-100 w-80-m text-color-white flow">
           <h2 class="full-width-featured__heading no-margin">{{ .heading }}</h2>
           <p>{{ .body | markdownify }}</p>
           {{ if .button.enabled }}
@@ -12,8 +12,11 @@
             {{ end }}
           {{ end }}
         </div>
-        <div class="full-width-featured__image w-100 w-30-m">
+        <div class="full-width-featured__image w-100 w-20-m flex flex-column gap-sm">
           <img src="{{ .image }}" alt="{{ .image_alt }}" width="360" height="360" loading="lazy">
+          {{ if .image_2 }}
+            <img src="{{ .image_2 }}" alt="{{ .image_2_alt }}" width="360" height="360" loading="lazy">
+          {{ end }}
         </div>
       </div>
     </div>
