@@ -4,36 +4,43 @@ layout: privacy
 seo:
   page_title:
   meta_description:
-  featured_image: 
+  featured_image:
   featured_image_alt:
 ---
-
 By accessing or using Hillestad Heating and Cooling Systems's website, you agree to the terms of this Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
 
 ### Collection of Personal Information
 
 When you merely use the website for informational purposes, i.e. if you do not log in to use the website, register or otherwise provide us with information, we do not collect any personal data, except for the data transmitted by your browser that enables you to access the website. This includes:
 
-- IP address
-- Date and time of the request
-- Content of the request (specific site)
-- Access status / HTTP status code
-- Volume of data transmitted each time
-- Website from which the request comes
-- Browser
-- Operating system and its interface
-- Language and version of the browser software
-- Your country of origin
+* IP address
+* Date and time of the request
+* Content of the request (specific site)
+* Access status / HTTP status code
+* Volume of data transmitted each time
+* Website from which the request comes
+* Browser
+* Operating system and its interface
+* Language and version of the browser software
+* Your country of origin
 
 When you engage in certain activities on this site, you may be asked to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, you may be required to provide personal information, such as your name, mailing address, e-mail address and other personal identifying information.
 
+### Verbal Opt-In
+
+Hillestad Heating and Cooling Systems will be collecting opt-ins verbally from their customers. The customers will be able to opt in to receive messages either in person at their physical location, or over a phone call if the customer calls. When a customer is registered for the first time, they are asked to provide their phone number, and staff is trained to ask if the customer would like to opt in to SMS-based billing notifications, appointment reminders, dispatch notifications, and job completion surveys. They will be verbally informed that 'Message and data rates may apply', 'Message frequency may vary', and they can 'text HELP for support or more information and STOP to unsubscribe, at any time and no further messages will be sent.' They will also be informed that their information will not be shared with third parties.
+
 ### Use of the “Contact” Page
 
-When you contact Hillestad Heating and Cooling Systems via email or via the contact form, Hillestad Heating and Cooling Systemswill store your email address and, if you have provided them, your name and phone number in order to answer your questions.
+When you contact Hillestad Heating and Cooling Systems via email or via the contact form, Hillestad Heating and Cooling Systems will store your email address and, if you have provided them, your name and phone number in order to answer your questions.
 
 When you submit personal information, you understand and agree that Hillestad Heating and Cooling Systems may transfer, store and process your information in any of the countries in which Hillestad Heating and Cooling Systems maintain offices, including without limitation, the United States.
 
 Hillestad Heating and Cooling Systems collects this information in order to record and support your participation in the activities you select. Hillestad Heating and Cooling Systems also uses information that you provide as part of our effort to keep you informed about product upgrades, special offers and other Hillestad Heating and Cooling Systems products and services. Hillestad Heating and Cooling Systems will never sell or share your information with other companies.
+
+#### Form Disclosures
+
+By submitting our contact form and signing up for texts, you consent to receive text messages from Hillestad Heating and Cooling Systems at the number provided, including messages sent by auto dialer. Consent is not a condition of purchase. Message and data rates may apply. Message frequency varies. Unsubscribe at any time by replying STOP or clicking the unsubscribe link (where available) and no further messages will be sent. Reply HELP for help.
 
 ### Embedded Content From Other Websites
 
@@ -77,21 +84,21 @@ If you view content (i.e. video) powered by a third-party on our website (i.e. Y
 
 Below is a sample of significant third-party cookies we use on our website for the purposes of analysis or marketing.
 
-We use Google Analytics to analyze the use of our website. Google Analytics gathers information about how our website is used by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. View <a href="https://policies.google.com/privacy?hl=en&gl=uk" target="_blank" class="primaryLink">Google's privacy policy.</a>
+We use Google Analytics to analyze the use of our website. Google Analytics gathers information about how our website is used by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. View <a href="https://policies.google.com/privacy?hl=en&amp;gl=uk" target="_blank" class="primaryLink">Google's privacy policy.</a>
 
 #### Why we use cookies
 
 There are many different reasons we collect cookies, including:
 
-<strong>Functionality:</strong> To remember the preferences you set on our website, for example, if you're logged in or not, or if you've accepted our cookie policy, so that we can create the experience you're expecting
+**Functionality:** To remember the preferences you set on our website, for example, if you're logged in or not, or if you've accepted our cookie policy, so that we can create the experience you're expecting
 
-<strong>Understanding our Customers:</strong> To track all the pages you visit and buttons you click on, so we can understand what is relevant to you and therefore create a more personalized experience for you
+**Understanding our Customers:** To track all the pages you visit and buttons you click on, so we can understand what is relevant to you and therefore create a more personalized experience for you
 
-<strong>Personalization:</strong> To link what we know about you (as our customer) to your behavior on our website so that we can understand more about you and create a more personalized experience for you
+**Personalization:** To link what we know about you (as our customer) to your behavior on our website so that we can understand more about you and create a more personalized experience for you
 
-<strong>Marketing:</strong> To market new products or features to you via other channels like social media, and to create similar audience profiles (sometimes called 'lookalike audiences') we can market to, so we can target advertising to new customers
+**Marketing:** To market new products or features to you via other channels like social media, and to create similar audience profiles (sometimes called 'lookalike audiences') we can market to, so we can target advertising to new customers
 
-<strong>Third-party Connections:</strong> To help you navigate third-party content on our site, to help their marketing and analysis or where the third party is our service provider and uses cookie data to provide us with insights into our website and how people use it
+**Third-party Connections:** To help you navigate third-party content on our site, to help their marketing and analysis or where the third party is our service provider and uses cookie data to provide us with insights into our website and how people use it
 
 #### How to Manage Your Cookies
 
@@ -99,9 +106,4 @@ You can choose to accept or decline cookies through your web browser. If you cho
 
 For information about how to manage cookies for individual browsers, here are relevant resources:
 
-<a href="https://support.google.com/chrome/answer/95647?hl=en&" target="_blank" class="primaryLink">Google Chrome</a><br>
-<a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" class ="primaryLink">Firefox</a><br>
-<a href="https://www.opera.com/help/tutorials/security/cookies/" target="_blank" class="primaryLink">Opera</a><br>
-<a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" class="primaryLink">Internet Explorer</a><br>
-<a href="https://support.apple.com/kb/PH21411?locale=en_US" target="_blank" class="primaryLink">Safari</a><br>
-<a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank" class="primaryLink">Edge</a><br>
+<a href="https://support.google.com/chrome/answer/95647?hl=en&amp;" target="_blank" class="primaryLink">Google Chrome</a><br> <a href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences" target="_blank" class="primaryLink">Firefox</a><br> <a href="https://www.opera.com/help/tutorials/security/cookies/" target="_blank" class="primaryLink">Opera</a><br> <a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank" class="primaryLink">Internet Explorer</a><br> <a href="https://support.apple.com/kb/PH21411?locale=en_US" target="_blank" class="primaryLink">Safari</a><br> <a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank" class="primaryLink">Edge</a><br>
