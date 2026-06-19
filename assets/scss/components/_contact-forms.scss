@@ -77,6 +77,24 @@
   vertical-align: middle;
 }
 
+.contact-form__form-group.opt-in input[type="checkbox"] {
+  inline-size: $ic-200;
+  margin: 0;
+  margin-right: $ic--100;
+  vertical-align: middle;
+  height: $ic-300;
+  float: left;
+}
+
+.contact-form__form-group .opt-in-disclaimer {
+  font-size: $ic--100;
+  font-weight: 500;
+  line-height: $ic-100;
+  display: block;
+  margin-block-end: $ic-100;
+  max-width: none;
+}
+
 .contact-form__form-group textarea {
   block-size: $ic-1000;
 }

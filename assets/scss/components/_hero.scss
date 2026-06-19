@@ -132,18 +132,40 @@
   right: 50%;
   z-index: 8;
   transform: translateX(50%);
-  width: 350px;
+  max-width: 500px;
+  width: 100%;
 
   @include breakpoint(md) {
-    top: 50%;
+    top: 58%;
     bottom: auto;
     right: 40%;
     transform: translate(50%, -50%);
   }
+
+  @media (min-width: 62em) and (max-width:1200px) {
+    right: 30%;
+  }
 }
 
+    @media (max-width: 767px) {
+      .hero--split__image {
+        min-height: 600px;
+        
+      }
+      .hero--split__content { 
+        padding-block-start: 0;
+      }
+    }
+
+        @media (max-width: 490px) {
+          .hero--split__image {
+            min-height: 680px;
+    
+          }
+        }
+
 .hero--split__form .contact-form {
-  max-width: 350px;
+  max-width: 450px;
 }
 
 .hero--split__form .contact-form__form-group input,
@@ -157,7 +179,7 @@
 
 .hero--split__form .contact-form__form-group textarea {
   block-size: $ic-900;
-  margin-block-end: $ic-100;
+  // margin-block-end: $ic-100;
 }
 
 .hero--split__form .contact-form__btn {
