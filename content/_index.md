@@ -47,7 +47,7 @@ cards:
   cards_stacked: true
   image:
     enabled: true
-    image_url: /homeowner-kneeling-next-to-rheem-ac-unit_wtcpyb.jpg
+    image_url: /bryant-dealer-showing-customer-ipad_ptwrr9.jpg
     image_alt: Homeowner kneeling next to Rheem AC unit
   card_item:
     - icon: service
